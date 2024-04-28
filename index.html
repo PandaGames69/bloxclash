@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="shortcut icon" type="image/ico" href="/assets/favicon.ico" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TJ9E1Y4V25"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-TJ9E1Y4V25');
+    </script>
+
+    <!-- Open Graph / Facebook / Discord -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bloxclash.com/" />
+    <meta property="og:title" content="BloxClash | Win Robux On The Best Roblox Gambling Site" />
+    <meta property="og:description" content="BloxClash: Play our premium games such as Case Battles, Loot Unboxing, Crash, Roulette, Coinflip and Jackpot. Win Free Robux, and withdraw Limiteds & Robux instantly!" />
+    <meta property="og:image" content="https://bloxclash.com/api/public/meta.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://bloxclash.com/" />
+    <meta property="twitter:title" content="BloxClash | Win Robux On The Best Roblox Gambling Site" />
+    <meta property="twitter:description" content="BloxClash: Play our premium games such as Case Battles, Loot Unboxing, Crash, Roulette, Coinflip and Jackpot. Win Free Robux, and withdraw Limiteds & Robux instantly!" />
+    <meta property="twitter:image" content="https://bloxclash.com/api/public/meta.png" />
+
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+
+    <script src="/src/index.jsx" type="module"></script>
+    <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
+    <script type="text/javascript">
+      window.$crisp=[];
+      window.CRISP_WEBSITE_ID="f783a31b-8278-49aa-981c-075c4dbb2569";
+      (function(){d=document;s=d.createElement("script");
+        s.src="https://client.crisp.chat/l.js";s.async=1;
+        d.getElementsByTagName("head")[0].appendChild(s);
+      })();
+
+      window.$crisp.push(["do", "chat:hide"])
+      window.$crisp.push(["safe", true])
+
+      window.$crisp.push(["on", "chat:closed", () => {
+        window.$crisp.push(["do", "chat:hide"])
+      }])
+
+      window.$crisp.push(["on", "message:received", () => {
+        if (window.$crisp.is("chat:hidden")) {
+          window.$crisp.push(["do", "chat:show"])
+          window.$crisp.push(["do", "chat:open"])
+        }
+      }])
+    </script>
+  </body>
+</html>

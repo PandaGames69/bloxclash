@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Geogrotesque Wide';
+    src: local('Geogrotesque Wide Thin'), local('GeogrotesqueWide-Th'),
+        url('/assets/fonts/geogrotesque-wide/GeogrotesqueWide-Th.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geogrotesque Wide';
+    src: local('Geogrotesque Wide Light'), local('GeogrotesqueWide-Lt'),
+        url('/assets/fonts/geogrotesque-wide/GeogrotesqueWide-Lt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geogrotesque Wide';
+    src: local('Geogrotesque Wide'), local('GeogrotesqueWide-Rg'),
+        url('/assets/fonts/geogrotesque-wide/GeogrotesqueWide-Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geogrotesque Wide';
+    src: local('Geogrotesque Wide Medium'), local('GeogrotesqueWide-Md'),
+    url('/assets/fonts/geogrotesque-wide/GeogrotesqueWide-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geogrotesque Wide';
+    src: local('Geogrotesque Wide Semi Bold'), local('GeogrotesqueWide-SmBd'),
+    url('/assets/fonts/geogrotesque-wide/GeogrotesqueWide-SmBd.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geogrotesque Wide';
+    src: local('Geogrotesque Wide Bold'), local('GeogrotesqueWide-Bd'),
+    url('/assets/fonts/geogrotesque-wide/GeogrotesqueWide-Bd.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

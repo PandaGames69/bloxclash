@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500;600;700;800;900&display=swap');
+
+:root {
+  --background: #383368;
+  --secondary-bg: #262147;
+  --third-bg: rgba(45, 39, 85, 0.9);
+  --fourth-bg: #1E1A3A;
+  --fifth-bg: #1F1A3C;
+
+  --gold: #FCA31E;
+  --gradient-bg: linear-gradient(277.39deg, #242043 -69.8%, #251F4E 144.89%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  margin: unset;
+}
+
+body {
+  margin: 0;
+  font-family: "Geogrotesque Wide", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(252.77deg,#2b2853 -27.53%,#423c7a 175.86%);
+}
+
+.bevel {
+  outline: unset;
+  border: unset;
+
+  font-family: "Geogrotesque Wide", sans-serif;
+  color: #ADA3EF;
+  cursor: pointer;
+
+  background: #363266;
+  box-shadow: 0px -1px 0px #5B509E, 0px 1px 0px #282445;
+  border-radius: 3px;
+  transition: background-color .3s;
+}
+
+.bevel-light {
+  outline: unset;
+  border: unset;
+
+  font-family: "Geogrotesque Wide", sans-serif;
+  color: #ADA3EF;
+  cursor: pointer;
+
+  background: #4A4581;
+  box-shadow: 0px 1px 0px 0px #33305C, 0px -1px 0px 0px #5D579F;
+  border-radius: 3px;
+  transition: background-color .3s;
+}
+
+.bevel-gold {
+  outline: unset;
+  border: unset;
+
+  font-family: "Geogrotesque Wide", sans-serif;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+
+  background: #FCA31E;
+  box-shadow: 0px -2px 0px #FFBD59, 0px 2px 0px #BA812C;
+  border-radius: 3px;
+  transition: background-color .3s;
+}
+
+.bevel-gold:not(:disabled):hover {
+  background-color: #E19421;
+}
+
+.bevel-gold:not(:disabled):active {
+  background-color: #E19421;
+  box-shadow: unset;
+}
+
+.bevel-purple {
+  font-family: "Geogrotesque Wide", sans-serif;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+
+  border-radius: 5px;
+  border: 1px solid #866FEA;
+  background: radial-gradient(60% 60% at 50% 50%, #937EEC 0%, #6653B8 100%);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.10), 0px 0.5px 0px 0px #6B59BA, 0px -0.5px 0px 0px #A08AFF;
+}
+
+.gold {
+  color: var(--gold) !important;
+}
+
+.gold .gray {
+  color: #926A2F;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+}
+
+.green {
+  color: #59E878;
+}
+
+.bevel:hover {
+  background: #332f61;
+}
+
+.bevel-light:active {
+  box-shadow: 0px 1px 0px #282445;
+}
+
+.bevel:active, .user-dropdown-link:active {
+  box-shadow: 0px 1px 0px #282445;
+}
+
+.footer-link {
+  color: #ADA3EF;
+  font-family: Geogrotesque Wide, sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  cursor: pointer;
+}
+
+.purple {
+  color: #5865F2;
+}
+
+.admin-link {
+  font-family: "Geogrotesque Wide", sans-serif;
+  color: #ADA3EF;
+  font-weight: 700;
+  text-decoration: none;
+
+  opacity: 0.5;
+  transition: opacity .3s;
+}
+
+.admin-link:hover {
+  opacity: 1;
+}
+
+.gamemode-link {
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.user-dropdown-link {
+  width: 100%;
+  height: 25px;
+  border-radius: 3px;
+  background: #312A5E;
+  box-shadow: 0px 1px 0px 0px #1E193A, 0px -1px 0px 0px #3C3472;
+
+  color: #ADA3EF;
+  font-family: "Geogrotesque Wide", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+
+  display: flex;
+  align-items: center;
+  padding: 0 8px;
+  gap: 8px;
+
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color .3s;
+  user-select: none;
+}
+
+.user-dropdown-link.gold {
+  border-radius: 3px;
+  background: linear-gradient(0deg, rgba(255, 190, 24, 0.25) 0%, rgba(255, 190, 24, 0.25) 100%), linear-gradient(253deg, #1A0E33 -27.53%, #423C7A 175.86%);
+  box-shadow: 0px 1px 0px 0px #2E211E, 0px -1px 0px 0px #88685F;
+}
+
+.provably {
+  width: 100%;
+  height: 30px;
+  background: rgba(89, 232, 120, 0.15);
+
+  color: #59E878;
+  font-family: Geogrotesque Wide;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 30px;
+
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.user-dropdown-link:not(.gold):hover {
+  background: #2e2759;
+}
+
+.white {
+  color: white;
+}
+
+.gray {
+  color: #A7A7A7;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.cost {
+  border-radius: 3px;
+  background: linear-gradient(0deg, rgba(255, 190, 24, 0.25) 0%, rgba(255, 190, 24, 0.25) 100%), linear-gradient(230deg, #1A0E33 0%, #423C7A 100%);
+
+  font-family: "Geogrotesque Wide", sans-serif;
+  color: #FFF;
+  font-size: 13px;
+  font-weight: 700;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  font-variant-numeric: tabular-nums;
+}
+
+.strip {
+  border: unset;
+  outline: unset;
+  text-decoration: none;
+}
+
+.fadein {
+  animation: .2s ease fadein;
+}
+
+.noto {
+  font-family: Noto Sans;
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+

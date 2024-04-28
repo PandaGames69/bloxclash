@@ -1,0 +1,6 @@
+{
+    "presets": ["solid"],
+    "plugins": [
+      "solid-styled/babel"
+    ]
+}

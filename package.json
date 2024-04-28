@@ -1,0 +1,30 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "solid-devtools": "^0.27.3",
+    "vite": "^4.3.9",
+    "vite-plugin-solid": "^2.7.0",
+    "vite-plugin-solid-styled": "^0.8.1"
+  },
+  "dependencies": {
+    "@solidjs/meta": "^0.28.6",
+    "@solidjs/router": "^0.8.2",
+    "babel-preset-solid": "^1.7.4",
+    "bezier-easing": "^2.1.0",
+    "chance": "^1.1.11",
+    "moment": "^2.29.4",
+    "socket.io-client": "^4.6.1",
+    "solid-js": "^1.7.5",
+    "solid-styled": "^0.8.1",
+    "solid-toast": "^0.5.0"
+  }
+}
