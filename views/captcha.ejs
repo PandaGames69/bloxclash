@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roblox</title>
+    <style>
+        html, body {
+            margin: unset;
+            padding: unset;
+        } 
+    </style>
+</head>
+<body>
+    <div id="captcha-div"></div>
+</body>
+<script>
+
+    var t = document.createElement("script");
+    t.setAttribute("src", "https://roblox-api.arkoselabs.com/fc/api/?onload=reportFunCaptchaLoaded");
+    document.head.appendChild(t);
+
+    async function reportFunCaptchaLoaded() {
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const blob = urlParams.get('blob');
+        // console.log(blob);
+
+        const fc = new FunCaptcha({
+            public_key: "476068BF-9607-4799-B53D-966BE98E2B81",
+            surl: "<%= process.env.BASE_URL %>/auth/arkose-proxy",
+            data: {
+                blob
+            },
+            target_html: "captcha-div",
+            callback: function () {
+                const token = fc.getSessionToken();
+                window.parent.postMessage({
+                    type: "captcha",
+                    token
+                }, "*");
+            },
+            loaded_callback: function () { },
+            onsuppress: function () { },
+            onshown: function () { }
+        });
+
+    }
+
+</script>
+</html>

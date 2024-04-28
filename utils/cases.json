@@ -1,0 +1,2963 @@
+[
+    {
+        "name": "Radiation Case",
+        "items": [
+            {
+                "id": "2225761296",
+                "limited": true,
+                "name": "Radioactive Beast Mode",
+                "img": "https://tr.rbxcdn.com/e59b8f7ed8e07f1fcf709449ff974114/110/110/Face/Png",
+                "price": 49770,
+                "robloxPrice": 45000,
+                "rangeFrom": 1,
+                "rangeTo": 21,
+                "probability": 0.021
+            },
+            {
+                "id": "46355320",
+                "limited": true,
+                "name": "Radioactive Man",
+                "img": "https://tr.rbxcdn.com/d051dc5a3ce61ba71676b28488da722c/110/110/Hat/Png",
+                "price": 20567,
+                "robloxPrice": 20567,
+                "rangeFrom": 22,
+                "rangeTo": 52,
+                "probability": 0.031
+            },
+            {
+                "id": 5099821552,
+                "name": "Radiation Suppression Helmet",
+                "robloxName": "Radiation Suppression Helmet",
+                "price": 1254,
+                "robloxPrice": 100,
+                "rangeFrom": 53,
+                "rangeTo": 1033,
+                "probability": 0.981
+            },
+            {
+                "id": "24826704",
+                "limited": true,
+                "name": "Radioactive Egg of Undead Apocalypse",
+                "img": "https://tr.rbxcdn.com/e731d7c5d527ea5c26036ca16ea25f42/110/110/Hat/Png",
+                "price": 644,
+                "robloxPrice": 798,
+                "rangeFrom": 1034,
+                "rangeTo": 2977,
+                "probability": 1.944
+            },
+            {
+                "id": 7856225841,
+                "name": "Toxic Gas Mask Green",
+                "robloxName": "Toxic Gas Mask Green",
+                "price": 425,
+                "robloxPrice": 50,
+                "rangeFrom": 2978,
+                "rangeTo": 5440,
+                "probability": 2.463
+            },
+            {
+                "id": "114385449",
+                "limited": true,
+                "name": "Radioactive Robot",
+                "img": "https://tr.rbxcdn.com/22e3b6f452505ac2b799faef79f62552/110/110/Hat/Png",
+                "price": 127,
+                "robloxPrice": 5620,
+                "rangeFrom": 5441,
+                "rangeTo": 10239,
+                "probability": 4.799
+            },
+            {
+                "id": 12527327878,
+                "name": "Nuclear Radiation Hazard Armband",
+                "robloxName": "Nuclear Radiation Hazard Armband",
+                "price": 10,
+                "robloxPrice": 45,
+                "rangeFrom": 10240,
+                "rangeTo": 54185,
+                "probability": 43.946
+            },
+            {
+                "id": 4753175753,
+                "name": "Radiation Face Mask",
+                "robloxName": "Radiation Face Mask",
+                "price": 10,
+                "robloxPrice": 50,
+                "rangeFrom": 54186,
+                "rangeTo": 100000,
+                "probability": 45.815
+            }
+        ],
+        "price": 70.72
+    },
+    {
+        "name": "Easter Case",
+        "items": [
+            {
+                "id": 24485062,
+                "name": "Brighteyes' Lavender Egg",
+                "robloxName": "Brighteyes' Lavender Egg of Anticipation",
+                "price": 55555,
+                "rangeFrom": 1,
+                "rangeTo": 50,
+                "probability": 0.05
+            },
+            {
+                "id": "1532381",
+                "limited": true,
+                "name": "Blinking Egg of Relocation",
+                "img": "https://tr.rbxcdn.com/eeca3f346fe8bcfbe6043a42be7051c5/110/110/Hat/Png",
+                "price": 1676,
+                "robloxPrice": 1511,
+                "rangeFrom": 51,
+                "rangeTo": 3010,
+                "probability": 2.96
+            },
+            {
+                "id": "1532384",
+                "limited": true,
+                "name": "Bouncing Egg of Boing Boing",
+                "img": "https://tr.rbxcdn.com/c916743086b2b302c8c545af6644683f/110/110/Hat/Png",
+                "price": 1577,
+                "robloxPrice": 1557,
+                "rangeFrom": 3011,
+                "rangeTo": 5157,
+                "probability": 2.147
+            },
+            {
+                "id": "1532395",
+                "limited": true,
+                "name": "Kind Egg of Sharing",
+                "img": "https://tr.rbxcdn.com/5d1b1c79e1d9af34b09a24e5c7cd0d54/110/110/Hat/Png",
+                "price": 1289,
+                "robloxPrice": 1081,
+                "rangeFrom": 5158,
+                "rangeTo": 7583,
+                "probability": 2.426
+            },
+            {
+                "id": "1533893",
+                "limited": true,
+                "name": "Bluesteel Egg of Genius",
+                "img": "https://tr.rbxcdn.com/322c3ea6bb222b528d13203e93b80b6e/110/110/Hat/Png",
+                "price": 971,
+                "robloxPrice": 1162,
+                "rangeFrom": 7584,
+                "rangeTo": 9183,
+                "probability": 1.6
+            },
+            {
+                "id": 6594547531,
+                "name": "Easter Egg Bunny Basket",
+                "robloxName": "Easter Egg Bunny Basket",
+                "price": 100,
+                "robloxPrice": 100,
+                "rangeFrom": 9184,
+                "rangeTo": 15256,
+                "probability": 6.073
+            },
+            {
+                "id": 4820813025,
+                "name": "Easter Backpack",
+                "robloxName": "Easter Backpack",
+                "price": 100,
+                "robloxPrice": 100,
+                "rangeFrom": 15257,
+                "rangeTo": 21576,
+                "probability": 6.32
+            },
+            {
+                "id": 6594809195,
+                "name": "Easter Egg Hat",
+                "robloxName": "Easter Egg Hat",
+                "price": 70,
+                "robloxPrice": 72,
+                "rangeFrom": 21577,
+                "rangeTo": 30924,
+                "probability": 9.348
+            },
+            {
+                "id": 6682339691,
+                "name": "Black Fluffy Bunny Ears",
+                "robloxName": "Black Fluffy Bunny Ears",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 30925,
+                "rangeTo": 42919,
+                "probability": 11.995
+            },
+            {
+                "id": 6533564237,
+                "name": "Easter Boppers",
+                "robloxName": "Easter Boppers",
+                "price": 20,
+                "robloxPrice": 72,
+                "rangeFrom": 42920,
+                "rangeTo": 71737,
+                "probability": 28.818
+            },
+            {
+                "id": 6564767970,
+                "name": "Easter Confetti",
+                "robloxName": "Easter Confetti",
+                "price": 20,
+                "robloxPrice": 52,
+                "rangeFrom": 71738,
+                "rangeTo": 100000,
+                "probability": 28.263
+            }
+        ],
+        "price": 204.63
+    },
+    {
+        "name": "Force Case",
+        "items": [
+            {
+                "id": 85879447,
+                "name": "Galactic Forcefield Glove",
+                "robloxName": "Galactic Forcefield Glove",
+                "price": 12593,
+                "rangeFrom": 1,
+                "rangeTo": 52,
+                "probability": 0.052
+            },
+            {
+                "id": 7333929608,
+                "name": "Force Field",
+                "robloxName": "Lower Futuristic Exploding Force field",
+                "price": 3643,
+                "robloxPrice": 75,
+                "rangeFrom": 53,
+                "rangeTo": 5087,
+                "probability": 5.035
+            },
+            {
+                "id": 11883712905,
+                "name": "Visa Security Forcefield",
+                "robloxName": "Visa Security Forcefield",
+                "price": 1239,
+                "robloxPrice": 100,
+                "rangeFrom": 5088,
+                "rangeTo": 11996,
+                "probability": 6.909
+            },
+            {
+                "id": 7333932592,
+                "name": "Upper Futuristic Exploding Forcefield",
+                "robloxName": "Upper  Futuristic Exploding Forcefield",
+                "price": 235,
+                "robloxPrice": 75,
+                "rangeFrom": 11997,
+                "rangeTo": 24780,
+                "probability": 12.784
+            },
+            {
+                "id": 7333870328,
+                "name": "Upper Magma Exploding Forcefield",
+                "robloxName": "Upper Magma Exploding Forcefield",
+                "price": 199,
+                "robloxPrice": 75,
+                "rangeFrom": 24781,
+                "rangeTo": 28981,
+                "probability": 4.201
+            },
+            {
+                "id": 7333920186,
+                "name": "Upper Chroma Exploding Forcefield",
+                "robloxName": "Upper Chroma Exploding Forcefield",
+                "price": 164,
+                "robloxPrice": 75,
+                "rangeFrom": 28982,
+                "rangeTo": 36003,
+                "probability": 7.022
+            },
+            {
+                "id": 7333889060,
+                "name": "Lower Magma Exploding Forcefield",
+                "robloxName": "Lower Magma Exploding Forcefield",
+                "price": 20,
+                "robloxPrice": 75,
+                "rangeFrom": 36004,
+                "rangeTo": 66121,
+                "probability": 30.118
+            },
+            {
+                "id": 7333916528,
+                "name": "Lower Chroma Exploding Forcefield",
+                "robloxName": "Lower Chroma Exploding Forcefield",
+                "price": 20,
+                "robloxPrice": 75,
+                "rangeFrom": 66122,
+                "rangeTo": 100000,
+                "probability": 33.879
+            }
+        ],
+        "price": 356.1
+    },
+    {
+        "name": "Waterfall Case",
+        "items": [
+            {
+                "id": 10000565509,
+                "name": "Water Pond",
+                "robloxName": "Water Pond ",
+                "price": 1539,
+                "robloxPrice": 65,
+                "rangeFrom": 1,
+                "rangeTo": 838,
+                "probability": 0.838
+            },
+            {
+                "id": 10716613031,
+                "name": "Aquarius Water Veil",
+                "robloxName": "Aquarius Water Veil",
+                "price": 963,
+                "robloxPrice": 50,
+                "rangeFrom": 839,
+                "rangeTo": 30856,
+                "probability": 30.018
+            },
+            {
+                "id": 9576242602,
+                "name": "Wacky Water Jetpack",
+                "robloxName": "Wacky Water Jetpack",
+                "price": 589,
+                "robloxPrice": 100,
+                "rangeFrom": 30857,
+                "rangeTo": 48673,
+                "probability": 17.817
+            },
+            {
+                "id": 4876293703,
+                "name": "Water Wings",
+                "robloxName": "Water Wings",
+                "price": 249,
+                "robloxPrice": 100,
+                "rangeFrom": 48674,
+                "rangeTo": 65325,
+                "probability": 16.652
+            },
+            {
+                "id": 10716587788,
+                "name": "Aquarius Water Trail",
+                "robloxName": "Aquarius Water Trail",
+                "price": 149,
+                "robloxPrice": 50,
+                "rangeFrom": 65326,
+                "rangeTo": 100000,
+                "probability": 34.675
+            }
+        ],
+        "price": 526.36
+    },
+    {
+        "name": "Aztec Case",
+        "items": [
+            {
+                "id": "34126856",
+                "limited": true,
+                "name": "Aztec Golden Eagle",
+                "img": "https://tr.rbxcdn.com/dd9ff1959277bbf486c157215bfa1d5a/110/110/Hat/Png",
+                "price": 12648,
+                "robloxPrice": 3575,
+                "rangeFrom": 1,
+                "rangeTo": 2041,
+                "probability": 2.041
+            },
+            {
+                "id": 97101188,
+                "name": "Aztec Bird",
+                "robloxName": "Aztec Bird",
+                "price": 3649,
+                "robloxPrice": 120,
+                "rangeFrom": 2042,
+                "rangeTo": 11895,
+                "probability": 9.854
+            },
+            {
+                "id": 13207741,
+                "name": "Xolotl's Aztec Warrior Mask",
+                "robloxName": "Xolotl's Aztec Warrior Mask",
+                "price": 1219,
+                "robloxPrice": 287,
+                "rangeFrom": 11896,
+                "rangeTo": 16043,
+                "probability": 4.148
+            },
+            {
+                "id": 5357055013,
+                "name": "Aztec Headdress",
+                "robloxName": "Aztec Headdress",
+                "price": 483,
+                "robloxPrice": 60,
+                "rangeFrom": 16044,
+                "rangeTo": 28344,
+                "probability": 12.301
+            },
+            {
+                "id": 11037067737,
+                "name": "Aztec Warrior Sword",
+                "robloxName": "Aztec Warrior Sword",
+                "price": 169,
+                "robloxPrice": 50,
+                "rangeFrom": 28345,
+                "rangeTo": 33068,
+                "probability": 4.724
+            },
+            {
+                "id": 11037142384,
+                "name": "Aztec Warrior Necklace",
+                "robloxName": "Aztec Warrior Necklace",
+                "price": 10,
+                "robloxPrice": 20,
+                "rangeFrom": 33069,
+                "rangeTo": 100000,
+                "probability": 66.932
+            }
+        ],
+        "price": 781.45
+    },
+    {
+        "name": "Boom Case",
+        "items": [
+            {
+                "id": "154727201",
+                "limited": true,
+                "name": "Exploding Lab Table",
+                "img": "https://tr.rbxcdn.com/ab87242179c9a103e043850fa6bae806/110/110/Gear/Png",
+                "price": 3311,
+                "robloxPrice": 3141,
+                "rangeFrom": 1,
+                "rangeTo": 9272,
+                "probability": 9.272
+            },
+            {
+                "id": "503955938",
+                "limited": true,
+                "name": "Advanced Exploding Lab Table",
+                "img": "https://tr.rbxcdn.com/4e3d35b9ff78b02a923381ef20b4f922/110/110/Gear/Png",
+                "price": 2761,
+                "robloxPrice": 2761,
+                "rangeFrom": 9273,
+                "rangeTo": 18371,
+                "probability": 9.099
+            },
+            {
+                "id": 12739680265,
+                "name": "Explosive Red Barrel",
+                "robloxName": "Explosive Red Barrel",
+                "price": 2532,
+                "robloxPrice": 100,
+                "rangeFrom": 18372,
+                "rangeTo": 22561,
+                "probability": 4.19
+            },
+            {
+                "id": "24826755",
+                "limited": true,
+                "name": "Explosive Egg of Kaboom!",
+                "img": "https://tr.rbxcdn.com/669ae4bbb61e43fdfc85a73e658363b4/110/110/Hat/Png",
+                "price": 476,
+                "robloxPrice": 500,
+                "rangeFrom": 22562,
+                "rangeTo": 41226,
+                "probability": 18.665
+            },
+            {
+                "id": 5677445249,
+                "name": "Cookie Explosion",
+                "robloxName": "Cookie Explosion",
+                "price": 50,
+                "robloxPrice": 60,
+                "rangeFrom": 41227,
+                "rangeTo": 49861,
+                "probability": 8.635
+            },
+            {
+                "id": 9547733353,
+                "name": "Watermelon Explosion",
+                "robloxName": "Watermelon Explosion",
+                "price": 50,
+                "robloxPrice": 40,
+                "rangeFrom": 49862,
+                "rangeTo": 62499,
+                "probability": 12.638
+            },
+            {
+                "id": 5733510219,
+                "name": "Cartoon Explosion",
+                "robloxName": "Cartoon Explosion",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 62500,
+                "rangeTo": 80916,
+                "probability": 18.417
+            },
+            {
+                "id": 12196622357,
+                "name": "Explosion Headphones",
+                "robloxName": "Explosion Headphones Accessory",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 80917,
+                "rangeTo": 100000,
+                "probability": 19.084
+            }
+        ],
+        "price": 823.73
+    },
+    {
+        "name": "ZZZ Case",
+        "items": [
+            {
+                "id": "141740648",
+                "limited": true,
+                "name": "Starry Sleeping Cap",
+                "img": "https://tr.rbxcdn.com/ef86801082c2172dc6c6874f66e48de0/110/110/Hat/Png",
+                "price": 4895,
+                "robloxPrice": 877,
+                "rangeFrom": 1,
+                "rangeTo": 11027,
+                "probability": 11.027
+            },
+            {
+                "id": "141740195",
+                "limited": true,
+                "name": "Sleepy Puppy",
+                "img": "https://tr.rbxcdn.com/93a622ad02ccd7d6e8388ec4352e88dd/110/110/Hat/Png",
+                "price": 3249,
+                "robloxPrice": 5555,
+                "rangeFrom": 11028,
+                "rangeTo": 14365,
+                "probability": 3.338
+            },
+            {
+                "id": "119917040",
+                "limited": true,
+                "name": "Sleepy Owl Friend",
+                "img": "https://tr.rbxcdn.com/043c177395c4919fc80feec11ad186fe/110/110/Hat/Png",
+                "price": 1395,
+                "robloxPrice": 2399,
+                "rangeFrom": 14366,
+                "rangeTo": 23151,
+                "probability": 8.786
+            },
+            {
+                "id": 259425810,
+                "name": "Red Sleepy Owl",
+                "robloxName": "Red Sleepy Owl ",
+                "price": 1276,
+                "rangeFrom": 23152,
+                "rangeTo": 32544,
+                "probability": 9.393
+            },
+            {
+                "id": "259425946",
+                "limited": true,
+                "name": "Yellow Sleep Owl",
+                "img": "https://tr.rbxcdn.com/6d2e7ff9db40067a22d12279a023d7a3/110/110/Hat/Png",
+                "price": 1119,
+                "robloxPrice": 1037,
+                "rangeFrom": 32545,
+                "rangeTo": 39315,
+                "probability": 6.771
+            },
+            {
+                "id": "259426115",
+                "limited": true,
+                "name": "Blue Sleepy Owl",
+                "img": "https://tr.rbxcdn.com/8a0db0c7b960d37bc2f57cc8cc8bca70/110/110/Hat/Png",
+                "price": 329,
+                "robloxPrice": 3032,
+                "rangeFrom": 39316,
+                "rangeTo": 46625,
+                "probability": 7.31
+            },
+            {
+                "id": "439942445",
+                "limited": true,
+                "name": "Blue Sleepy Koala",
+                "img": "https://tr.rbxcdn.com/41596301cb1c84cebcfee2106d4072f9/110/110/Hat/Png",
+                "price": 10,
+                "robloxPrice": 2793,
+                "rangeFrom": 46626,
+                "rangeTo": 71522,
+                "probability": 24.897
+            },
+            {
+                "id": "439942851",
+                "limited": true,
+                "name": "Purple Sleepy Koala",
+                "img": "https://tr.rbxcdn.com/f68a0102b8932e155c88adf54e574b73/110/110/Hat/Png",
+                "price": 10,
+                "robloxPrice": 4340,
+                "rangeFrom": 71523,
+                "rangeTo": 100000,
+                "probability": 28.478
+            }
+        ],
+        "price": 1048.21
+    },
+    {
+        "name": "Money Case",
+        "items": [
+            {
+                "id": "30371876",
+                "limited": true,
+                "name": "Vaiobot's Moneylicious Tie",
+                "img": "https://tr.rbxcdn.com/243f124471f4cc62807374af6a89f11c/110/110/Hat/Png",
+                "price": 321642,
+                "robloxPrice": 400000,
+                "rangeFrom": 1,
+                "rangeTo": 343,
+                "probability": 0.343
+            },
+            {
+                "id": "97078407",
+                "limited": true,
+                "name": "DJ Money",
+                "img": "https://tr.rbxcdn.com/72d93234664a33a3ca1581f2add6e203/110/110/Hat/Png",
+                "price": 30458,
+                "robloxPrice": 45000,
+                "rangeFrom": 344,
+                "rangeTo": 508,
+                "probability": 0.165
+            },
+            {
+                "id": "6552812",
+                "limited": true,
+                "name": "Golden Top Hat of Bling Bling",
+                "img": "https://tr.rbxcdn.com/cb03a236f04e1f8ac00a408393fdb0bd/110/110/Hat/Png",
+                "price": 10539,
+                "robloxPrice": 21733,
+                "rangeFrom": 509,
+                "rangeTo": 1660,
+                "probability": 1.152
+            },
+            {
+                "id": 5167410225,
+                "name": "Back Money",
+                "robloxName": "Back Money",
+                "price": 103,
+                "robloxPrice": 100,
+                "rangeFrom": 1661,
+                "rangeTo": 18648,
+                "probability": 16.988
+            },
+            {
+                "id": 4996211510,
+                "name": "Cash Pile",
+                "robloxName": "Cash Pile",
+                "price": 75,
+                "robloxPrice": 50,
+                "rangeFrom": 18649,
+                "rangeTo": 42153,
+                "probability": 23.505
+            },
+            {
+                "id": 6310448534,
+                "name": "Money Wings",
+                "robloxName": "Money Wings",
+                "price": 30,
+                "robloxPrice": 100,
+                "rangeFrom": 42154,
+                "rangeTo": 100000,
+                "probability": 57.847
+            }
+        ],
+        "price": 1397.24
+    },
+    {
+        "name": "Cloud Case",
+        "items": [
+            {
+                "id": 1098279,
+                "name": "Thunderstorm Hat",
+                "robloxName": "Thunderstorm Hat",
+                "price": 50236,
+                "robloxPrice": 86,
+                "rangeFrom": 1,
+                "rangeTo": 2365,
+                "probability": 2.365
+            },
+            {
+                "id": "34111862",
+                "limited": true,
+                "name": "Gentlemen of Stratus",
+                "img": "https://tr.rbxcdn.com/ca67ff57dda48e94d199c767235f64ea/110/110/Hat/Png",
+                "price": 3990,
+                "robloxPrice": 1992,
+                "rangeFrom": 2366,
+                "rangeTo": 6085,
+                "probability": 3.72
+            },
+            {
+                "id": "24826725",
+                "limited": true,
+                "name": "Scenic Egg of the Clouds",
+                "img": "https://tr.rbxcdn.com/115d7c58f99265cbb7c81dac1af12a05/110/110/Hat/Png",
+                "price": 1388,
+                "robloxPrice": 950,
+                "rangeFrom": 6086,
+                "rangeTo": 10183,
+                "probability": 4.098
+            },
+            {
+                "id": 107458483,
+                "name": "Pompous, the Cloud",
+                "robloxName": "Pompous, the Cloud",
+                "price": 1250,
+                "robloxPrice": 1250,
+                "rangeFrom": 10184,
+                "rangeTo": 16941,
+                "probability": 6.758
+            },
+            {
+                "id": 7003919478,
+                "name": "Rainbow Cloud Hair Clip",
+                "robloxName": "Rainbow Cloud Hair Clip",
+                "price": 633,
+                "robloxPrice": 25,
+                "rangeFrom": 16942,
+                "rangeTo": 20912,
+                "probability": 3.971
+            },
+            {
+                "id": 4882316954,
+                "name": "Head in the Clouds",
+                "robloxName": "Head in the Clouds",
+                "price": 354,
+                "robloxPrice": 70,
+                "rangeFrom": 20913,
+                "rangeTo": 23723,
+                "probability": 2.811
+            },
+            {
+                "id": 6501854843,
+                "name": "Huge Lucky Rainbow",
+                "robloxName": "Huge Lucky Rainbow",
+                "price": 100,
+                "robloxPrice": 100,
+                "rangeFrom": 23724,
+                "rangeTo": 36362,
+                "probability": 12.639
+            },
+            {
+                "id": 4882316954,
+                "name": "Head in the Clouds",
+                "robloxName": "Head in the Clouds",
+                "price": 50,
+                "robloxPrice": 70,
+                "rangeFrom": 36363,
+                "rangeTo": 60152,
+                "probability": 23.79
+            },
+            {
+                "id": 6035947104,
+                "name": "Cloud",
+                "robloxName": "Cloud",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 60153,
+                "rangeTo": 80257,
+                "probability": 20.105
+            },
+            {
+                "id": 6035947104,
+                "name": "Cloud",
+                "robloxName": "Cloud",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 80258,
+                "rangeTo": 100000,
+                "probability": 19.743
+            }
+        ],
+        "price": 1639.38
+    },
+    {
+        "name": "Business Case",
+        "items": [
+            {
+                "id": "89624140",
+                "limited": true,
+                "name": "Shady Business Hat",
+                "img": "https://tr.rbxcdn.com/c598d054ed6a60d44ec591cad99d5522/110/110/Hat/Png",
+                "price": 9345,
+                "robloxPrice": 11316,
+                "rangeFrom": 1,
+                "rangeTo": 3281,
+                "probability": 3.281
+            },
+            {
+                "id": "19027209",
+                "limited": true,
+                "name": "Perfectly Legitimate Business Hat",
+                "img": "https://tr.rbxcdn.com/e4d7679a2b1b98e013f40c21120a61b4/110/110/Hat/Png",
+                "price": 7635,
+                "robloxPrice": 8000,
+                "rangeFrom": 3282,
+                "rangeTo": 13287,
+                "probability": 10.006
+            },
+            {
+                "id": "121389389",
+                "limited": true,
+                "name": "Business Cat",
+                "img": "https://tr.rbxcdn.com/4ae96c01629ce8f7faca7417786db7a4/110/110/Hat/Png",
+                "price": 6500,
+                "robloxPrice": 524,
+                "rangeFrom": 13288,
+                "rangeTo": 19513,
+                "probability": 6.226
+            },
+            {
+                "id": 8165203866,
+                "name": "Black Business Hat",
+                "robloxName": "Black Business Hat",
+                "price": 1642,
+                "robloxPrice": 70,
+                "rangeFrom": 19514,
+                "rangeTo": 25373,
+                "probability": 5.86
+            },
+            {
+                "id": "121389389",
+                "limited": true,
+                "name": "Business Cat",
+                "img": "https://tr.rbxcdn.com/4ae96c01629ce8f7faca7417786db7a4/110/110/Hat/Png",
+                "price": 519,
+                "robloxPrice": 524,
+                "rangeFrom": 25374,
+                "rangeTo": 33588,
+                "probability": 8.215
+            },
+            {
+                "id": 12300764586,
+                "name": "Black Business Tuxedo Blazer",
+                "robloxName": "Black Business Tuxedo Blazer",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 33589,
+                "rangeTo": 42532,
+                "probability": 8.944
+            },
+            {
+                "id": 30111567,
+                "name": "BC Business Tie",
+                "robloxName": "BC Business Tie",
+                "price": 75,
+                "robloxPrice": 75,
+                "rangeFrom": 42533,
+                "rangeTo": 49647,
+                "probability": 7.115
+            },
+            {
+                "id": 12331791244,
+                "name": "Anthracite Business Tuxedo Pants",
+                "robloxName": "Anthracite Business Tuxedo Pants",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 49648,
+                "rangeTo": 65643,
+                "probability": 15.996
+            },
+            {
+                "id": 10644707417,
+                "name": "Default Black Business Glasses",
+                "robloxName": "Default Black Business Glasses",
+                "price": 15,
+                "robloxPrice": 15,
+                "rangeFrom": 65644,
+                "rangeTo": 100000,
+                "probability": 34.357
+            }
+        ],
+        "price": 1723.24
+    },
+    {
+        "name": "Alien Case",
+        "items": [
+            {
+                "id": "323192193",
+                "limited": true,
+                "name": "Purple Alien",
+                "img": "https://tr.rbxcdn.com/cc46b4ed752c5ea5a27f75cc23e265e7/110/110/Face/Png",
+                "price": 9828,
+                "robloxPrice": 12020,
+                "rangeFrom": 1,
+                "rangeTo": 14127,
+                "probability": 14.127
+            },
+            {
+                "id": "69567879",
+                "limited": true,
+                "name": "Dark Alien Hatchling",
+                "img": "https://tr.rbxcdn.com/07cfb1e7767aa19eedeb8f56d654716c/110/110/Gear/Png",
+                "price": 3358,
+                "robloxPrice": 3967,
+                "rangeFrom": 14128,
+                "rangeTo": 24988,
+                "probability": 10.861
+            },
+            {
+                "id": 76170515,
+                "name": "Alien Parasite",
+                "robloxName": "Alien Parasite",
+                "price": 600,
+                "robloxPrice": 600,
+                "rangeFrom": 24989,
+                "rangeTo": 35646,
+                "probability": 10.658
+            },
+            {
+                "id": 17449374,
+                "name": "UFO",
+                "robloxName": "UFO",
+                "price": 300,
+                "robloxPrice": 300,
+                "rangeFrom": 35647,
+                "rangeTo": 42834,
+                "probability": 7.188
+            },
+            {
+                "id": "153581784",
+                "limited": true,
+                "name": "Alien Arteggfact",
+                "img": "https://tr.rbxcdn.com/301de4203345518a1cbd3b0b0cad8931/110/110/Hat/Png",
+                "price": 220,
+                "robloxPrice": 146,
+                "rangeFrom": 42835,
+                "rangeTo": 47579,
+                "probability": 4.745
+            },
+            {
+                "id": "323192193",
+                "limited": true,
+                "name": "Purple Alien",
+                "img": "https://tr.rbxcdn.com/cc46b4ed752c5ea5a27f75cc23e265e7/110/110/Face/Png",
+                "price": 50,
+                "robloxPrice": 12020,
+                "rangeFrom": 47580,
+                "rangeTo": 58624,
+                "probability": 11.045
+            },
+            {
+                "id": 5063731573,
+                "name": "Green Alien",
+                "robloxName": "Green Alien",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 58625,
+                "rangeTo": 79807,
+                "probability": 21.183
+            },
+            {
+                "id": 159199178,
+                "name": "Alien (face)",
+                "robloxName": "Classic Alien Face",
+                "price": 55,
+                "robloxPrice": 75,
+                "rangeFrom": 79808,
+                "rangeTo": 100000,
+                "probability": 20.193
+            }
+        ],
+        "price": 1975.04
+    },
+    {
+        "name": "Jungle Case",
+        "items": [
+            {
+                "id": "91294485",
+                "limited": true,
+                "name": "Hungry Lion Friend",
+                "img": "https://tr.rbxcdn.com/f1f70861b6fb4f356b67cb95440d85ce/110/110/Gear/Png",
+                "price": 9717,
+                "robloxPrice": 9717,
+                "rangeFrom": 1,
+                "rangeTo": 3151,
+                "probability": 3.151
+            },
+            {
+                "id": "16678138",
+                "limited": true,
+                "name": "Jungle Commando",
+                "img": "https://tr.rbxcdn.com/a62df2526fa365ffe1cb6362d828b68d/110/110/Face/Png",
+                "price": 7507,
+                "robloxPrice": 7939,
+                "rangeFrom": 3152,
+                "rangeTo": 18791,
+                "probability": 15.64
+            },
+            {
+                "id": "293316227",
+                "limited": true,
+                "name": "Bombastic Boa",
+                "img": "https://tr.rbxcdn.com/8027a1a838fb66e0a75c6b004cf7211d/110/110/Hat/Png",
+                "price": 3848,
+                "robloxPrice": 3729,
+                "rangeFrom": 18792,
+                "rangeTo": 25625,
+                "probability": 6.834
+            },
+            {
+                "id": "232503325",
+                "limited": true,
+                "name": "Rainboa",
+                "img": "https://tr.rbxcdn.com/232940475b54c43821985647c3fc107b/110/110/Hat/Png",
+                "price": 3334,
+                "robloxPrice": 3243,
+                "rangeFrom": 25626,
+                "rangeTo": 30010,
+                "probability": 4.385
+            },
+            {
+                "id": 66305850,
+                "name": "Coral Boa Boa",
+                "robloxName": "Coral Boa Boa",
+                "price": 300,
+                "robloxPrice": 300,
+                "rangeFrom": 30011,
+                "rangeTo": 47628,
+                "probability": 17.618
+            },
+            {
+                "id": 13700820,
+                "name": "Silly Monkey",
+                "robloxName": "Silly Monkey",
+                "price": 102,
+                "robloxPrice": 102,
+                "rangeFrom": 47629,
+                "rangeTo": 54623,
+                "probability": 6.995
+            },
+            {
+                "id": 5460206979,
+                "name": "Jungled Antlers",
+                "robloxName": "Jungled Antlers",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 54624,
+                "rangeTo": 78504,
+                "probability": 23.881
+            },
+            {
+                "id": 6203132529,
+                "name": "Monkey",
+                "robloxName": "Monkey",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 78505,
+                "rangeTo": 100000,
+                "probability": 21.496
+            }
+        ],
+        "price": 2075.92
+    },
+    {
+        "name": "Phoenix Case",
+        "items": [
+            {
+                "id": "362032819",
+                "limited": true,
+                "name": "The Fire Crown",
+                "img": "https://tr.rbxcdn.com/9f93ffd63a507707366d6f60b6f2afbc/110/110/Hat/Png",
+                "price": 478889,
+                "robloxPrice": 330000,
+                "rangeFrom": 1,
+                "rangeTo": 198,
+                "probability": 0.198
+            },
+            {
+                "id": "81154592",
+                "limited": true,
+                "name": "Firebrand",
+                "img": "https://tr.rbxcdn.com/760fbf5c019887f781d960927ea4cfb3/110/110/Gear/Png",
+                "price": 265899,
+                "robloxPrice": 260000,
+                "rangeFrom": 199,
+                "rangeTo": 516,
+                "probability": 0.318
+            },
+            {
+                "id": "144507154",
+                "limited": true,
+                "name": "Hooded Firelord",
+                "img": "https://tr.rbxcdn.com/482ee51cf6b07ed88c8a3135ea860719/110/110/Hat/Png",
+                "price": 65899,
+                "robloxPrice": 300000,
+                "rangeFrom": 517,
+                "rangeTo": 607,
+                "probability": 0.091
+            },
+            {
+                "id": "204490997",
+                "limited": true,
+                "name": "Phoenix Winged Knight Helmet",
+                "img": "https://tr.rbxcdn.com/33fa787808a24182830c711dfe2b38b4/110/110/Hat/Png",
+                "price": 6175,
+                "robloxPrice": 6007,
+                "rangeFrom": 608,
+                "rangeTo": 1278,
+                "probability": 0.671
+            },
+            {
+                "id": "261827192",
+                "limited": true,
+                "name": "Neon Rainbow Phoenix",
+                "img": "https://tr.rbxcdn.com/a6c9f1b19b21247a543b68d036bc6bd6/110/110/Gear/Png",
+                "price": 6035,
+                "robloxPrice": 6357,
+                "rangeFrom": 1279,
+                "rangeTo": 1656,
+                "probability": 0.378
+            },
+            {
+                "id": "2041985255",
+                "limited": true,
+                "name": "8-Bit Phoenix Winged Knight Helmet",
+                "img": "https://tr.rbxcdn.com/1ec8386735e77b83936778bcd00c2c6c/110/110/Hat/Png",
+                "price": 2711,
+                "robloxPrice": 2749,
+                "rangeFrom": 1657,
+                "rangeTo": 2088,
+                "probability": 0.432
+            },
+            {
+                "id": 92142799,
+                "name": "Phoenix",
+                "robloxName": "Phoenix",
+                "price": 500,
+                "robloxPrice": 500,
+                "rangeFrom": 2089,
+                "rangeTo": 4243,
+                "probability": 2.155
+            },
+            {
+                "id": 3858787672,
+                "name": "Phoenix Horns",
+                "robloxName": "Phoenix Horns",
+                "price": 225,
+                "robloxPrice": 300,
+                "rangeFrom": 4244,
+                "rangeTo": 8797,
+                "probability": 4.554
+            },
+            {
+                "id": "153563710",
+                "limited": true,
+                "name": "Egg of the Phoenix",
+                "img": "https://tr.rbxcdn.com/af2f1079d575383e481d113610845a19/110/110/Hat/Png",
+                "price": 178,
+                "robloxPrice": 172,
+                "rangeFrom": 8798,
+                "rangeTo": 14236,
+                "probability": 5.439
+            },
+            {
+                "id": 7062106398,
+                "name": "Rising FIre Phoenix",
+                "robloxName": "Rising FIre Phoenix",
+                "price": 100,
+                "robloxPrice": 100,
+                "rangeFrom": 14237,
+                "rangeTo": 23897,
+                "probability": 9.661
+            },
+            {
+                "id": 11386604315,
+                "name": "Phoenix Helm",
+                "robloxName": "Phoenix Helm",
+                "price": 25,
+                "robloxPrice": 50,
+                "rangeFrom": 23898,
+                "rangeTo": 61950,
+                "probability": 38.053
+            },
+            {
+                "id": 3858759677,
+                "name": "Phoenix Hood",
+                "robloxName": "Phoenix Hood",
+                "price": 25,
+                "robloxPrice": 200,
+                "rangeFrom": 61951,
+                "rangeTo": 100000,
+                "probability": 38.05
+            }
+        ],
+        "price": 2093.76
+    },
+    {
+        "name": "Gladiator Case",
+        "items": [
+            {
+                "id": 12307223314,
+                "name": "Red & Black Space Gladiator Greatsword",
+                "robloxName": "Red & Black Space Gladiator Greatsword",
+                "price": 35595,
+                "robloxPrice": 100,
+                "rangeFrom": 1,
+                "rangeTo": 3537,
+                "probability": 3.537
+            },
+            {
+                "id": 12303133178,
+                "name": "Gold & Blue Space Gladiator Greatsword",
+                "robloxName": "Gold & Blue Space Gladiator Greatsword",
+                "price": 10642,
+                "robloxPrice": 100,
+                "rangeFrom": 3538,
+                "rangeTo": 12824,
+                "probability": 9.287
+            },
+            {
+                "id": 12307199626,
+                "name": "Blue & Black Space Gladiator Greatsword",
+                "robloxName": "Blue & Black Space Gladiator Greatsword",
+                "price": 7312,
+                "robloxPrice": 100,
+                "rangeFrom": 12825,
+                "rangeTo": 14024,
+                "probability": 1.2
+            },
+            {
+                "id": 7976245066,
+                "name": "Purple & Black Space Gladiator Greatsword",
+                "robloxName": "Purple Space Bounty Hunter",
+                "price": 2453,
+                "robloxPrice": 75,
+                "rangeFrom": 14025,
+                "rangeTo": 21079,
+                "probability": 7.055
+            },
+            {
+                "id": 51243413,
+                "name": "Gladiator",
+                "robloxName": "Gladiator",
+                "price": 425,
+                "robloxPrice": 425,
+                "rangeFrom": 21080,
+                "rangeTo": 27603,
+                "probability": 6.524
+            },
+            {
+                "id": 6275586940,
+                "name": "Gladiator's Golden Helmet",
+                "robloxName": "Gladiator's Golden Helmet",
+                "price": 50,
+                "robloxPrice": 75,
+                "rangeFrom": 27604,
+                "rangeTo": 62652,
+                "probability": 35.049
+            },
+            {
+                "id": 6277183918,
+                "name": "Gladiator's Silver Helmet",
+                "robloxName": "Gladiator's Silver Helmet",
+                "price": 50,
+                "robloxPrice": 75,
+                "rangeFrom": 62653,
+                "rangeTo": 100000,
+                "probability": 37.348
+            }
+        ],
+        "price": 2707.42
+    },
+    {
+        "name": "Dream Case",
+        "items": [
+            {
+                "id": "24826614",
+                "limited": true,
+                "name": "Royal Agate Egg of Beautiful Dreams",
+                "img": "https://tr.rbxcdn.com/edb611f622dacb58adc98248edc796db/110/110/Hat/Png",
+                "price": 500000,
+                "robloxPrice": 300000,
+                "rangeFrom": 1,
+                "rangeTo": 496,
+                "probability": 0.496
+            },
+            {
+                "id": "65079090",
+                "limited": true,
+                "name": "Dreamwalker's Dagger",
+                "img": "https://tr.rbxcdn.com/c3ad05d2fdb9be47f54ce8c68d2570f2/110/110/Gear/Png",
+                "price": 19215,
+                "robloxPrice": 120000,
+                "rangeFrom": 497,
+                "rangeTo": 853,
+                "probability": 0.357
+            },
+            {
+                "id": "102614621",
+                "limited": true,
+                "name": "Dreamweaver Fabergé Egg",
+                "img": "https://tr.rbxcdn.com/6c03e51af85166aaaa914d2d6c03ab04/110/110/Hat/Png",
+                "price": 894,
+                "robloxPrice": 838,
+                "rangeFrom": 854,
+                "rangeTo": 2297,
+                "probability": 1.444
+            },
+            {
+                "id": 5356269665,
+                "name": "Dreamy Blue Tv",
+                "robloxName": "Dreamy Blue Tv",
+                "price": 396,
+                "robloxPrice": 75,
+                "rangeFrom": 2298,
+                "rangeTo": 5051,
+                "probability": 2.754
+            },
+            {
+                "id": 5028725987,
+                "name": "Paradise Petals Hair Clip",
+                "robloxName": "Paradise Petals Hair Clip",
+                "price": 94,
+                "robloxPrice": 50,
+                "rangeFrom": 5052,
+                "rangeTo": 16658,
+                "probability": 11.607
+            },
+            {
+                "id": 8657395615,
+                "name": "Purple Mermaid Paradise Headphones",
+                "robloxName": "Purple Mermaid Paradise Headphones",
+                "price": 25,
+                "robloxPrice": 60,
+                "rangeFrom": 16659,
+                "rangeTo": 58126,
+                "probability": 41.468
+            },
+            {
+                "id": 8657387855,
+                "name": "Pink Mermaid Paradise Headphones",
+                "robloxName": "Pink Mermaid Paradise Headphones",
+                "price": 25,
+                "robloxPrice": 60,
+                "rangeFrom": 58127,
+                "rangeTo": 100000,
+                "probability": 41.874
+            }
+        ],
+        "price": 2741.22
+    },
+    {
+        "name": "Cyborg Case",
+        "items": [
+            {
+                "id": "467134564",
+                "limited": true,
+                "name": "Silver Cyborg Face Gear",
+                "img": "https://tr.rbxcdn.com/dea0c9ff77547a30c27914212cbaa75b/110/110/Hat/Png",
+                "price": 11441,
+                "robloxPrice": 12674,
+                "rangeFrom": 1,
+                "rangeTo": 20488,
+                "probability": 20.488
+            },
+            {
+                "id": "27052155",
+                "limited": true,
+                "name": "Cyborg Soldier",
+                "img": "https://tr.rbxcdn.com/ddf306453bcfc82641c56efc7003c16c/110/110/Hat/Png",
+                "price": 3911,
+                "robloxPrice": 3922,
+                "rangeFrom": 20489,
+                "rangeTo": 33811,
+                "probability": 13.323
+            },
+            {
+                "id": 8143657844,
+                "name": "XX Blue Neon Cyber Mask",
+                "robloxName": "XX Blue Neon Cyber Mask",
+                "price": 1692,
+                "robloxPrice": 65,
+                "rangeFrom": 33812,
+                "rangeTo": 36272,
+                "probability": 2.461
+            },
+            {
+                "id": 5095311912,
+                "name": "Cyberjaw Headgear",
+                "robloxName": "Cyberjaw Headgear",
+                "price": 428,
+                "robloxPrice": 65,
+                "rangeFrom": 36273,
+                "rangeTo": 48362,
+                "probability": 12.09
+            },
+            {
+                "id": 1380773045,
+                "name": "Steampunk Cyborg Face",
+                "robloxName": "Steampunk Cyborg Face",
+                "price": 500,
+                "robloxPrice": 500,
+                "rangeFrom": 48363,
+                "rangeTo": 56368,
+                "probability": 8.006
+            },
+            {
+                "id": 93078790,
+                "name": "Rogue Cyborg",
+                "robloxName": "Rogue Cyborg",
+                "price": 150,
+                "robloxPrice": 150,
+                "rangeFrom": 56369,
+                "rangeTo": 66095,
+                "probability": 9.727
+            },
+            {
+                "id": 790,
+                "name": "Cyborg Shogun",
+                "robloxName": "Cyborg Shogun",
+                "price": 25,
+                "robloxPrice": 250,
+                "rangeFrom": 66096,
+                "rangeTo": 100000,
+                "probability": 33.905
+            }
+        ],
+        "price": 3180.61
+    },
+    {
+        "name": "Frost Case",
+        "items": [
+            {
+                "id": "136802867",
+                "limited": true,
+                "name": "Hooded Frostlord",
+                "img": "https://tr.rbxcdn.com/bf34a8c4e48d2c272950b998a59a6060/110/110/Hat/Png",
+                "price": 104161,
+                "robloxPrice": 400000,
+                "rangeFrom": 1,
+                "rangeTo": 993,
+                "probability": 0.993
+            },
+            {
+                "id": "62720062",
+                "limited": true,
+                "name": "Azurewrath: Lord of the Frost",
+                "img": "https://tr.rbxcdn.com/d7d455232f8c154c2e0e1a1a7bd71f51/110/110/Hat/Png",
+                "price": 49970,
+                "robloxPrice": 110000,
+                "rangeFrom": 994,
+                "rangeTo": 4174,
+                "probability": 3.181
+            },
+            {
+                "id": "32858586",
+                "limited": true,
+                "name": "Frostbrand",
+                "img": "https://tr.rbxcdn.com/7e03403c074cdc09c07b7fef0bbae0e6/110/110/Gear/Png",
+                "price": 14804,
+                "robloxPrice": 14804,
+                "rangeFrom": 4175,
+                "rangeTo": 5378,
+                "probability": 1.204
+            },
+            {
+                "id": "22972723",
+                "limited": true,
+                "name": "Eyes of Everfrost",
+                "img": "https://tr.rbxcdn.com/47100487a666e60d56bf29932ef2c2bd/110/110/Face/Png",
+                "price": 10441,
+                "robloxPrice": 10111,
+                "rangeFrom": 5379,
+                "rangeTo": 7516,
+                "probability": 2.138
+            },
+            {
+                "id": 194,
+                "name": "Frost Guard General",
+                "robloxName": "Frost Guard General",
+                "price": 500,
+                "robloxPrice": 500,
+                "rangeFrom": 7517,
+                "rangeTo": 11833,
+                "probability": 4.317
+            },
+            {
+                "id": "152980772",
+                "limited": true,
+                "name": "Egg of Frost",
+                "img": "https://tr.rbxcdn.com/69b7789c27b394dda02a3e4985a1efb3/110/110/Hat/Png",
+                "price": 136,
+                "robloxPrice": 215,
+                "rangeFrom": 11834,
+                "rangeTo": 20846,
+                "probability": 9.013
+            },
+            {
+                "id": 4793990854,
+                "name": "Frost Visor",
+                "robloxName": "Frost Visor",
+                "price": 65,
+                "robloxPrice": 65,
+                "rangeFrom": 20847,
+                "rangeTo": 38218,
+                "probability": 17.372
+            },
+            {
+                "id": 5861240115,
+                "name": "Frost Spirit - Hood",
+                "robloxName": "Frost Spirit - Hood",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 38219,
+                "rangeTo": 59752,
+                "probability": 21.534
+            },
+            {
+                "id": 6203587851,
+                "name": "Frost Crown",
+                "robloxName": "Frost Crown",
+                "price": 25,
+                "robloxPrice": 50,
+                "rangeFrom": 59753,
+                "rangeTo": 100000,
+                "probability": 40.248
+            }
+        ],
+        "price": 3254
+    },
+    {
+        "name": "Slime Case",
+        "items": [
+            {
+                "id": "182774977",
+                "limited": true,
+                "name": "Slimy Eye Ball Top Hat",
+                "img": "https://tr.rbxcdn.com/18a10d91c85964f9d797c761e5f3fc16/110/110/Hat/Png",
+                "price": 20311,
+                "robloxPrice": 2649,
+                "rangeFrom": 1,
+                "rangeTo": 14492,
+                "probability": 14.492
+            },
+            {
+                "id": 11973362399,
+                "name": "Rainbow Neon Slime Head",
+                "robloxName": "Rainbow Neon Slime Head",
+                "price": 2395,
+                "robloxPrice": 60,
+                "rangeFrom": 14493,
+                "rangeTo": 19009,
+                "probability": 4.517
+            },
+            {
+                "id": 11973470608,
+                "name": "Blue Neon Slime Head",
+                "robloxName": "Blue Neon Slime Head",
+                "price": 1106,
+                "robloxPrice": 60,
+                "rangeFrom": 19010,
+                "rangeTo": 30968,
+                "probability": 11.959
+            },
+            {
+                "id": 11973480185,
+                "name": "Purple Neon Slime Head",
+                "robloxName": "Purple Neon Slime Head",
+                "price": 569,
+                "robloxPrice": 60,
+                "rangeFrom": 30969,
+                "rangeTo": 39900,
+                "probability": 8.932
+            },
+            {
+                "id": 11973442327,
+                "name": "Orange Neon Slime Head",
+                "robloxName": "Orange Neon Slime Head",
+                "price": 204,
+                "robloxPrice": 60,
+                "rangeFrom": 39901,
+                "rangeTo": 56155,
+                "probability": 16.255
+            },
+            {
+                "id": 11973459574,
+                "name": "Cyan Neon Slime Head",
+                "robloxName": "Cyan Neon Slime Head",
+                "price": 118,
+                "robloxPrice": 60,
+                "rangeFrom": 56156,
+                "rangeTo": 66865,
+                "probability": 10.71
+            },
+            {
+                "id": 11973453084,
+                "name": "Green Neon Slime Head",
+                "robloxName": "Green Neon Slime Head",
+                "price": 47,
+                "robloxPrice": 60,
+                "rangeFrom": 66866,
+                "rangeTo": 100000,
+                "probability": 33.135
+            }
+        ],
+        "price": 3469.59
+    },
+    {
+        "name": "Time Machine Case",
+        "items": [
+            {
+                "id": "78621687",
+                "limited": true,
+                "name": "Timelord",
+                "img": "https://tr.rbxcdn.com/426b6a4be0d16be3d96dfa26d9477143/110/110/Hat/Png",
+                "price": 9763,
+                "robloxPrice": 9486,
+                "rangeFrom": 1,
+                "rangeTo": 22073,
+                "probability": 22.073
+            },
+            {
+                "id": "140483668",
+                "limited": true,
+                "name": "Well Accessorized Time Punk",
+                "img": "https://tr.rbxcdn.com/40fc25f9141ddae7e34a40044cecd581/110/110/Hat/Png",
+                "price": 5744,
+                "robloxPrice": 5292,
+                "rangeFrom": 22074,
+                "rangeTo": 33502,
+                "probability": 11.429
+            },
+            {
+                "id": "49939702",
+                "limited": true,
+                "name": "Wizard of Time, Of All Times",
+                "img": "https://tr.rbxcdn.com/296d241c0e74f6f29cb70042c5ab2ee1/110/110/Hat/Png",
+                "price": 3929,
+                "robloxPrice": 3816,
+                "rangeFrom": 33503,
+                "rangeTo": 37665,
+                "probability": 4.163
+            },
+            {
+                "id": 2830573557,
+                "name": "Compact Back Time Machine",
+                "robloxName": "Compact Back Time Machine",
+                "price": 1173,
+                "robloxPrice": 200,
+                "rangeFrom": 37666,
+                "rangeTo": 61561,
+                "probability": 23.896
+            },
+            {
+                "id": "152980450",
+                "limited": true,
+                "name": "Egg of Time",
+                "img": "https://tr.rbxcdn.com/848b797bf2083e197737123dc4a74a38/110/110/Hat/Png",
+                "price": 238,
+                "robloxPrice": 142,
+                "rangeFrom": 61562,
+                "rangeTo": 76482,
+                "probability": 14.921
+            },
+            {
+                "id": "76692269",
+                "limited": true,
+                "name": "Egg Timer",
+                "img": "https://tr.rbxcdn.com/6d2e76ac9971f70fe8e5ffe5a8c79fed/110/110/Hat/Png",
+                "price": 95,
+                "robloxPrice": 173,
+                "rangeFrom": 76483,
+                "rangeTo": 100000,
+                "probability": 23.518
+            }
+        ],
+        "price": 3487.57
+    },
+    {
+        "name": "Alchemy Case",
+        "items": [
+            {
+                "id": "153059612",
+                "limited": true,
+                "name": "The Darkest Alchemist Faceplate",
+                "img": "https://tr.rbxcdn.com/22cd59306be3eb893c0f0947ecdba0d9/110/110/Hat/Png",
+                "price": 68231,
+                "robloxPrice": 6764,
+                "rangeFrom": 1,
+                "rangeTo": 3461,
+                "probability": 3.461
+            },
+            {
+                "id": 7170044719,
+                "name": "Alchemists Backpack",
+                "robloxName": "Alchemists Backpack",
+                "price": 21832,
+                "robloxPrice": 100,
+                "rangeFrom": 3462,
+                "rangeTo": 7297,
+                "probability": 3.836
+            },
+            {
+                "id": 6711569677,
+                "name": "Alchemist Elemental Sash",
+                "robloxName": "Alchemist Elemental Sash",
+                "price": 4231,
+                "robloxPrice": 80,
+                "rangeFrom": 7298,
+                "rangeTo": 10396,
+                "probability": 3.099
+            },
+            {
+                "id": 8933413236,
+                "name": "Alchemists Potion Backpack",
+                "robloxName": "Alchemists Potion Backpack",
+                "price": 1256,
+                "robloxPrice": 100,
+                "rangeFrom": 10397,
+                "rangeTo": 17452,
+                "probability": 7.056
+            },
+            {
+                "id": 6711567675,
+                "name": "Alchemist Elemental Hat",
+                "robloxName": "Alchemist Elemental Hat",
+                "price": 216,
+                "robloxPrice": 60,
+                "rangeFrom": 17453,
+                "rangeTo": 27157,
+                "probability": 9.705
+            },
+            {
+                "id": 11685412863,
+                "name": "Alchemist Hat",
+                "robloxName": "Alchemist Hat",
+                "price": 100,
+                "robloxPrice": 70,
+                "rangeFrom": 27158,
+                "rangeTo": 45277,
+                "probability": 18.12
+            },
+            {
+                "id": 62252414,
+                "name": "Alchemist's Apprentice",
+                "robloxName": "Alchemist's Apprentice",
+                "price": 25,
+                "robloxPrice": 75,
+                "rangeFrom": 45278,
+                "rangeTo": 100000,
+                "probability": 54.723
+            }
+        ],
+        "price": 3654.16
+    },
+    {
+        "name": "Hell Case",
+        "items": [
+            {
+                "id": "70437291",
+                "limited": true,
+                "name": "The Devil's Cowboy",
+                "img": "https://tr.rbxcdn.com/ed004ebda159cb163dbd70b6f098afd4/110/110/Hat/Png",
+                "price": 11809,
+                "robloxPrice": 11809,
+                "rangeFrom": 1,
+                "rangeTo": 17069,
+                "probability": 17.069
+            },
+            {
+                "id": "52502129",
+                "limited": true,
+                "name": "Dare Devil",
+                "img": "https://tr.rbxcdn.com/1754978d1e404ae2c15d15e26b448e6a/110/110/Hat/Png",
+                "price": 5813,
+                "robloxPrice": 5646,
+                "rangeFrom": 17070,
+                "rangeTo": 30618,
+                "probability": 13.549
+            },
+            {
+                "id": "61894723",
+                "limited": true,
+                "name": "Dare Devil Helmet",
+                "img": "https://tr.rbxcdn.com/10dd4bc9df46d318128d0db1073fc570/110/110/Hat/Png",
+                "price": 3720,
+                "robloxPrice": 3720,
+                "rangeFrom": 30619,
+                "rangeTo": 44831,
+                "probability": 14.213
+            },
+            {
+                "id": 7790910859,
+                "name": "Devil Horns",
+                "robloxName": "Devil Horns",
+                "price": 682,
+                "robloxPrice": 50,
+                "rangeFrom": 44832,
+                "rangeTo": 53274,
+                "probability": 8.443
+            },
+            {
+                "id": "110706148",
+                "limited": true,
+                "name": "Deviled Egg",
+                "img": "https://tr.rbxcdn.com/c3729de52f2994ee29f89e2120862f29/110/110/Hat/Png",
+                "price": 249,
+                "robloxPrice": 290,
+                "rangeFrom": 53275,
+                "rangeTo": 77554,
+                "probability": 24.28
+            },
+            {
+                "id": 5891378738,
+                "name": "Red Devil's Tail",
+                "robloxName": "Red Devil's Tail",
+                "price": 96,
+                "robloxPrice": 66,
+                "rangeFrom": 77555,
+                "rangeTo": 100000,
+                "probability": 22.446
+            }
+        ],
+        "price": 3654.31
+    },
+    {
+        "name": "Galaxy Case",
+        "items": [
+            {
+                "id": "36466277",
+                "limited": true,
+                "name": "Galaxy Emperor",
+                "img": "https://tr.rbxcdn.com/9bc0a5742b00cb95131c8fa06eed6375/110/110/Hat/Png",
+                "price": 60712,
+                "robloxPrice": 100000,
+                "rangeFrom": 1,
+                "rangeTo": 3968,
+                "probability": 3.968
+            },
+            {
+                "id": "440739783",
+                "limited": true,
+                "name": "Green Galaxy Gaze",
+                "img": "https://tr.rbxcdn.com/ab48ad551c96abd07feab4302bdfd800/110/110/Face/Png",
+                "price": 7340,
+                "robloxPrice": 130000,
+                "rangeFrom": 3969,
+                "rangeTo": 14985,
+                "probability": 11.017
+            },
+            {
+                "id": "440738448",
+                "limited": true,
+                "name": "Pink Galaxy Gaze",
+                "img": "https://tr.rbxcdn.com/edc8aea46964be02a35fa1250c3d18d1/110/110/Face/Png",
+                "price": 4649,
+                "robloxPrice": 60000,
+                "rangeFrom": 14986,
+                "rangeTo": 23306,
+                "probability": 8.321
+            },
+            {
+                "id": "440739518",
+                "limited": true,
+                "name": "Blue Galaxy Gaze",
+                "img": "https://tr.rbxcdn.com/ac89c3c26a542007db48674f659ba2ad/110/110/Face/Png",
+                "price": 2395,
+                "robloxPrice": 70000,
+                "rangeFrom": 23307,
+                "rangeTo": 28441,
+                "probability": 5.135
+            },
+            {
+                "id": "440739240",
+                "limited": true,
+                "name": "Purple Galaxy Gaze",
+                "img": "https://tr.rbxcdn.com/456fa6a7abdaa4f6d67f65cd9c3bde7e/110/110/Face/Png",
+                "price": 894,
+                "robloxPrice": 60000,
+                "rangeFrom": 28442,
+                "rangeTo": 32937,
+                "probability": 4.496
+            },
+            {
+                "id": 5647995802,
+                "name": "Galaxy Headsets",
+                "robloxName": "Galaxy Headsets",
+                "price": 100,
+                "robloxPrice": 50,
+                "rangeFrom": 32938,
+                "rangeTo": 63353,
+                "probability": 30.416
+            },
+            {
+                "id": 5102242952,
+                "name": "Galaxy Glasses",
+                "robloxName": "Galaxy Glasses",
+                "price": 68,
+                "robloxPrice": 100,
+                "rangeFrom": 63354,
+                "rangeTo": 100000,
+                "probability": 36.647
+            }
+        ],
+        "price": 4024.27
+    },
+    {
+        "name": "Evil Case",
+        "items": [
+            {
+                "id": 110336757,
+                "name": "Evil Skeptic",
+                "robloxName": "Evil Skeptic ",
+                "price": 46341,
+                "robloxPrice": 50,
+                "rangeFrom": 1,
+                "rangeTo": 2829,
+                "probability": 2.829
+            },
+            {
+                "id": "63690289",
+                "limited": true,
+                "name": "Lord Evil",
+                "img": "https://tr.rbxcdn.com/600061684a07ed8ea4b1f9cc5ddf69ee/110/110/Hat/Png",
+                "price": 26329,
+                "robloxPrice": 26329,
+                "rangeFrom": 2830,
+                "rangeTo": 7941,
+                "probability": 5.112
+            },
+            {
+                "id": "40893465",
+                "limited": true,
+                "name": "Even Eviler Jester",
+                "img": "https://tr.rbxcdn.com/65b211e2abd6fd69dd4ff95403f88bcc/110/110/Hat/Png",
+                "price": 21349,
+                "robloxPrice": 23214,
+                "rangeFrom": 7942,
+                "rangeTo": 13551,
+                "probability": 5.61
+            },
+            {
+                "id": "69344084",
+                "limited": true,
+                "name": "Evil Henchman",
+                "img": "https://tr.rbxcdn.com/c5d0cdddf77f7cb2f881e1950de7733d/110/110/Hat/Png",
+                "price": 7696,
+                "robloxPrice": 7696,
+                "rangeFrom": 13552,
+                "rangeTo": 14289,
+                "probability": 0.738
+            },
+            {
+                "id": "18482382",
+                "limited": true,
+                "name": "Evil Vizer",
+                "img": "https://tr.rbxcdn.com/25ec585473b6842a101f676a367faf77/110/110/Hat/Png",
+                "price": 5467,
+                "robloxPrice": 5350,
+                "rangeFrom": 14290,
+                "rangeTo": 14607,
+                "probability": 0.318
+            },
+            {
+                "id": "26777611",
+                "limited": true,
+                "name": "Evil Sultan",
+                "img": "https://tr.rbxcdn.com/a193c632528b2aa2b0d65db9b6acc3ab/110/110/Hat/Png",
+                "price": 2285,
+                "robloxPrice": 2128,
+                "rangeFrom": 14608,
+                "rangeTo": 16596,
+                "probability": 1.989
+            },
+            {
+                "id": "110706148",
+                "limited": true,
+                "name": "Deviled Egg",
+                "img": "https://tr.rbxcdn.com/c3729de52f2994ee29f89e2120862f29/110/110/Hat/Png",
+                "price": 249,
+                "robloxPrice": 290,
+                "rangeFrom": 16597,
+                "rangeTo": 20734,
+                "probability": 4.138
+            },
+            {
+                "id": 5505504463,
+                "name": "Evil Teddy Bear Head",
+                "robloxName": "Evil Teddy Bear Head",
+                "price": 60,
+                "robloxPrice": 60,
+                "rangeFrom": 20735,
+                "rangeTo": 37062,
+                "probability": 16.328
+            },
+            {
+                "id": 4753467054,
+                "name": "Evil Side",
+                "robloxName": "Evil Side",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 37063,
+                "rangeTo": 54506,
+                "probability": 17.444
+            },
+            {
+                "id": 12601095437,
+                "name": "Evil Smile",
+                "robloxName": "Evil Smile",
+                "price": 20,
+                "robloxPrice": 20,
+                "rangeFrom": 54507,
+                "rangeTo": 100000,
+                "probability": 45.494
+            }
+        ],
+        "price": 4223.32
+    },
+    {
+        "name": "Clown Case",
+        "items": [
+            {
+                "id": "23644960",
+                "limited": true,
+                "name": "Clown Face",
+                "img": "https://tr.rbxcdn.com/e64c25876a57654de577b62cd449d62a/110/110/Face/Png",
+                "price": 61163,
+                "robloxPrice": 60046,
+                "rangeFrom": 1,
+                "rangeTo": 3803,
+                "probability": 3.803
+            },
+            {
+                "id": "250654457",
+                "limited": true,
+                "name": "Sad Clown",
+                "img": "https://tr.rbxcdn.com/7842a3e247d5c7f5472ab4f2215719db/110/110/Face/Png",
+                "price": 44888,
+                "robloxPrice": 50095,
+                "rangeFrom": 3804,
+                "rangeTo": 7260,
+                "probability": 3.457
+            },
+            {
+                "id": "21392863",
+                "limited": true,
+                "name": "Clown School Dropout",
+                "img": "https://tr.rbxcdn.com/ec7566102e5dc3f1f6f343a840f66e24/110/110/Face/Png",
+                "price": 15324,
+                "robloxPrice": 15963,
+                "rangeFrom": 7261,
+                "rangeTo": 9539,
+                "probability": 2.279
+            },
+            {
+                "id": 5644742377,
+                "name": "Lovely Clown Mask",
+                "robloxName": "Lovely Clown Mask",
+                "price": 1639,
+                "robloxPrice": 50,
+                "rangeFrom": 9540,
+                "rangeTo": 12805,
+                "probability": 3.266
+            },
+            {
+                "id": 5230747378,
+                "name": "Clown Mask",
+                "robloxName": "Clown Mask",
+                "price": 1279,
+                "robloxPrice": 50,
+                "rangeFrom": 12806,
+                "rangeTo": 13793,
+                "probability": 0.988
+            },
+            {
+                "id": 6313026932,
+                "name": "Happy Clown",
+                "robloxName": "Happy Clown",
+                "price": 693,
+                "robloxPrice": 50,
+                "rangeFrom": 13794,
+                "rangeTo": 18663,
+                "probability": 4.87
+            },
+            {
+                "id": 6684270999,
+                "name": "Clown Hairstyles",
+                "robloxName": "Clown Hairstyles",
+                "price": 132,
+                "robloxPrice": 55,
+                "rangeFrom": 18664,
+                "rangeTo": 25590,
+                "probability": 6.927
+            },
+            {
+                "id": 11721197,
+                "name": "Frobow the Sad Clown",
+                "robloxName": "Frobow the Sad Clown",
+                "price": 90,
+                "robloxPrice": 99,
+                "rangeFrom": 25591,
+                "rangeTo": 34050,
+                "probability": 8.46
+            },
+            {
+                "id": 7390473176,
+                "name": "Clown Nose in Red",
+                "robloxName": "Clown Nose in Red",
+                "price": 25,
+                "robloxPrice": 25,
+                "rangeFrom": 34051,
+                "rangeTo": 65826,
+                "probability": 31.776
+            },
+            {
+                "id": 7390483335,
+                "name": "Clown Nose in Black",
+                "robloxName": "Clown Nose in Black",
+                "price": 25,
+                "robloxPrice": 25,
+                "rangeFrom": 65827,
+                "rangeTo": 100000,
+                "probability": 34.174
+            }
+        ],
+        "price": 4589.69
+    },
+    {
+        "name": "Glass Case",
+        "items": [
+            {
+                "id": "16646369",
+                "limited": true,
+                "name": "Crazy Glasses",
+                "img": "https://tr.rbxcdn.com/a9cec12a43ccd58ba207310c62f7cf5a/110/110/Hat/Png",
+                "price": 29006,
+                "robloxPrice": 75000,
+                "rangeFrom": 1,
+                "rangeTo": 10661,
+                "probability": 10.661
+            },
+            {
+                "id": "2316681099",
+                "limited": true,
+                "name": "Blue Chrome Glasses",
+                "img": "https://tr.rbxcdn.com/3b099d36c7a19fc727a3d67c21a09042/110/110/Hat/Png",
+                "price": 5414,
+                "robloxPrice": 5655,
+                "rangeFrom": 10662,
+                "rangeTo": 30754,
+                "probability": 20.093
+            },
+            {
+                "id": "51243561",
+                "limited": true,
+                "name": "Peace Sign Glasses",
+                "img": "https://tr.rbxcdn.com/04573d411e7e6bb8cb45956158facd42/110/110/Hat/Png",
+                "price": 2885,
+                "robloxPrice": 2946,
+                "rangeFrom": 30755,
+                "rangeTo": 45071,
+                "probability": 14.317
+            },
+            {
+                "id": "243854130",
+                "limited": true,
+                "name": "Purple Crazy Glasses",
+                "img": "https://tr.rbxcdn.com/38f6d688aa3d6a56b9309e5b37423c56/110/110/Hat/Png",
+                "price": 828,
+                "robloxPrice": 645,
+                "rangeFrom": 45072,
+                "rangeTo": 57737,
+                "probability": 12.666
+            },
+            {
+                "id": "6803412842",
+                "limited": true,
+                "name": "Gucci Diamond-Framed Sunglasses",
+                "img": "https://tr.rbxcdn.com/f81517d54974bab7f46550b6be1e279a/110/110/Hat/Png",
+                "price": 423,
+                "robloxPrice": 358,
+                "rangeFrom": 57738,
+                "rangeTo": 72036,
+                "probability": 14.299
+            },
+            {
+                "id": "6803401743",
+                "limited": true,
+                "name": "Gucci Sunglasses with Crystals",
+                "img": "https://tr.rbxcdn.com/b56a740806d401b2a306ceef5d68d29b/110/110/Hat/Png",
+                "price": 267,
+                "robloxPrice": 232,
+                "rangeFrom": 72037,
+                "rangeTo": 80120,
+                "probability": 8.084
+            },
+            {
+                "id": "250364732",
+                "limited": true,
+                "name": "Lime Glasses",
+                "img": "https://tr.rbxcdn.com/5298aef7e1646e29e035b0fa5551b042/110/110/Hat/Png",
+                "price": 212,
+                "robloxPrice": 151,
+                "rangeFrom": 80121,
+                "rangeTo": 100000,
+                "probability": 19.88
+            }
+        ],
+        "price": 5076.1
+    },
+    {
+        "name": "Lunar Case",
+        "items": [
+            {
+                "id": "23301681",
+                "limited": true,
+                "name": "Moon Seeing Stars",
+                "img": "https://tr.rbxcdn.com/11170ac1856aee2c3e9397fb83d78ee0/110/110/Hat/Png",
+                "price": 272550,
+                "robloxPrice": 370000,
+                "rangeFrom": 1,
+                "rangeTo": 1910,
+                "probability": 1.91
+            },
+            {
+                "id": "162372650",
+                "limited": true,
+                "name": "LOL Moon",
+                "img": "https://tr.rbxcdn.com/c8a0d2f807a7e4acae8066a88d5a2f4a/110/110/Hat/Png",
+                "price": 14338,
+                "robloxPrice": 16080,
+                "rangeFrom": 1911,
+                "rangeTo": 7381,
+                "probability": 5.471
+            },
+            {
+                "id": "7319168",
+                "limited": true,
+                "name": "The Moon",
+                "img": "https://tr.rbxcdn.com/bc77a9e9a967d99a780a260688f6665a/110/110/Hat/Png",
+                "price": 3666,
+                "robloxPrice": 3221,
+                "rangeFrom": 7382,
+                "rangeTo": 12914,
+                "probability": 5.533
+            },
+            {
+                "id": "119916848",
+                "limited": true,
+                "name": "Cool Moon Shades",
+                "img": "https://tr.rbxcdn.com/e8235e2d1baf99668e4aaa7ba2822b16/110/110/Hat/Png",
+                "price": 2309,
+                "robloxPrice": 2718,
+                "rangeFrom": 12915,
+                "rangeTo": 21272,
+                "probability": 8.358
+            },
+            {
+                "id": "24826737",
+                "limited": true,
+                "name": "POW! To the Moon! Egg",
+                "img": "https://tr.rbxcdn.com/57f50a301d591e46cda0c57f5b1e0173/110/110/Hat/Png",
+                "price": 391,
+                "robloxPrice": 391,
+                "rangeFrom": 21273,
+                "rangeTo": 40717,
+                "probability": 19.445
+            },
+            {
+                "id": "102618732",
+                "limited": true,
+                "name": "Full Moon Egg",
+                "img": "https://tr.rbxcdn.com/c75e582181f4269325d99c1ad71bc269/110/110/Hat/Png",
+                "price": 120,
+                "robloxPrice": 184,
+                "rangeFrom": 40718,
+                "rangeTo": 100000,
+                "probability": 59.283
+            }
+        ],
+        "price": 6876.98
+    },
+    {
+        "name": "Paradise Case",
+        "items": [
+            {
+                "id": "172327379",
+                "limited": true,
+                "name": "Beach Ball Head",
+                "img": "https://tr.rbxcdn.com/88c28d0391ff84667e39ecfcfd9f0db6/110/110/Hat/Png",
+                "price": 22427,
+                "robloxPrice": 55000,
+                "rangeFrom": 1,
+                "rangeTo": 34621,
+                "probability": 34.621
+            },
+            {
+                "id": "253153907",
+                "limited": true,
+                "name": "Beach House Fedora",
+                "img": "https://tr.rbxcdn.com/a89190c4dc67f3b6ebb971754aa43f11/110/110/Hat/Png",
+                "price": 17571,
+                "robloxPrice": 17313,
+                "rangeFrom": 34622,
+                "rangeTo": 35141,
+                "probability": 0.52
+            },
+            {
+                "id": "31541373",
+                "limited": true,
+                "name": "Beach Day",
+                "img": "https://tr.rbxcdn.com/ad1d50e88be7b3cc595a9932e85e73ab/110/110/Hat/Png",
+                "price": 2024,
+                "robloxPrice": 2107,
+                "rangeFrom": 35142,
+                "rangeTo": 58086,
+                "probability": 22.945
+            },
+            {
+                "id": 6963758939,
+                "name": "Beach Day Crown",
+                "robloxName": "Beach Day Crown",
+                "price": 1074,
+                "robloxPrice": 80,
+                "rangeFrom": 58087,
+                "rangeTo": 78834,
+                "probability": 20.748
+            },
+            {
+                "id": 119085989,
+                "name": "Sunny Beach Visor",
+                "robloxName": "Sunny Beach Visor",
+                "price": 439,
+                "robloxPrice": 15,
+                "rangeFrom": 78835,
+                "rangeTo": 100000,
+                "probability": 21.166
+            }
+        ],
+        "price": 9090.51
+    },
+    {
+        "name": "Retro Case",
+        "items": [
+            {
+                "id": "29844011",
+                "limited": true,
+                "name": "Retro 80s Headphones",
+                "img": "https://tr.rbxcdn.com/431ccd1616a4b2040d75e3330164b65e/110/110/Hat/Png",
+                "price": 94609,
+                "robloxPrice": 750000,
+                "rangeFrom": 1,
+                "rangeTo": 8662,
+                "probability": 8.662
+            },
+            {
+                "id": "218674480",
+                "limited": true,
+                "name": "Shocked Retro Robot Head",
+                "img": "https://tr.rbxcdn.com/93834f3c4b911d9c0879da665f5ddc7c/110/110/Hat/Png",
+                "price": 4886,
+                "robloxPrice": 5207,
+                "rangeFrom": 8663,
+                "rangeTo": 12454,
+                "probability": 3.792
+            },
+            {
+                "id": "117410734",
+                "limited": true,
+                "name": "Retro Pattern Shades",
+                "img": "https://tr.rbxcdn.com/3d5aa98fc7be410f582fb4daef0f3db7/110/110/Hat/Png",
+                "price": 1010,
+                "robloxPrice": 1544,
+                "rangeFrom": 12455,
+                "rangeTo": 23482,
+                "probability": 11.028
+            },
+            {
+                "id": 8028203294,
+                "name": "Walkboy Retro Music Player",
+                "robloxName": "(1.0) Walkboy Retro Music Player (Black)",
+                "price": 753,
+                "robloxPrice": 95,
+                "rangeFrom": 23483,
+                "rangeTo": 31278,
+                "probability": 7.796
+            },
+            {
+                "id": 15726947,
+                "name": "Retro 3D Glasses",
+                "robloxName": "Retro 3D Glasses",
+                "price": 532,
+                "robloxPrice": 137,
+                "rangeFrom": 31279,
+                "rangeTo": 43548,
+                "probability": 12.27
+            },
+            {
+                "id": 8722289714,
+                "name": "Retro Bandana",
+                "robloxName": "Retro Bandana",
+                "price": 50,
+                "robloxPrice": 50,
+                "rangeFrom": 43549,
+                "rangeTo": 100000,
+                "probability": 56.452
+            }
+        ],
+        "price": 9098.84
+    },
+    {
+        "name": "Goblin Case",
+        "items": [
+            {
+                "id": "24015579",
+                "limited": true,
+                "name": "Pot Of Gold",
+                "img": "https://tr.rbxcdn.com/4fc9260a6bfe16b9bd1673445f5aa9dc/110/110/Gear/Png",
+                "price": 100000,
+                "robloxPrice": 7679,
+                "rangeFrom": 1,
+                "rangeTo": 7510,
+                "probability": 7.51
+            },
+            {
+                "id": "1594180",
+                "limited": true,
+                "name": "Golden Teapot of Pwnage",
+                "img": "https://tr.rbxcdn.com/6c68faa1f7d1d0cce63aa6c98dd4ef9d/110/110/Hat/Png",
+                "price": 13130,
+                "robloxPrice": 24000,
+                "rangeFrom": 7511,
+                "rangeTo": 15484,
+                "probability": 7.974
+            },
+            {
+                "id": "94266158",
+                "limited": true,
+                "name": "Unorthodox Pot of Gold",
+                "img": "https://tr.rbxcdn.com/c99c9d9dee99ab39fffa8a1ce4583ed1/110/110/Hat/Png",
+                "price": 6940,
+                "robloxPrice": 6940,
+                "rangeFrom": 15485,
+                "rangeTo": 20095,
+                "probability": 4.611
+            },
+            {
+                "id": 12859182816,
+                "name": "Goblin",
+                "robloxName": "Goblin",
+                "price": 302,
+                "robloxPrice": 50,
+                "rangeFrom": 20096,
+                "rangeTo": 30335,
+                "probability": 10.24
+            },
+            {
+                "id": 4623732543,
+                "name": "Goblin Ears",
+                "robloxName": "Goblin Ears",
+                "price": 40,
+                "robloxPrice": 50,
+                "rangeFrom": 30336,
+                "rangeTo": 100000,
+                "probability": 69.665
+            }
+        ],
+        "price": 9406.08
+    },
+    {
+        "name": "Top Secret Case",
+        "items": [
+            {
+                "id": "16678098",
+                "limited": true,
+                "name": "I'm Secretly A Vampire, The Hat",
+                "img": "https://tr.rbxcdn.com/e912293a975db58a5bb5e65c0f52369e/110/110/Hat/Png",
+                "price": 23726,
+                "robloxPrice": 23726,
+                "rangeFrom": 1,
+                "rangeTo": 30726,
+                "probability": 30.726
+            },
+            {
+                "id": "1272715",
+                "limited": true,
+                "name": "Helm of the Secret Fire",
+                "img": "https://tr.rbxcdn.com/aa5243f6833802396b51a9774d8f728c/110/110/Hat/Png",
+                "price": 17767,
+                "robloxPrice": 24000,
+                "rangeFrom": 30727,
+                "rangeTo": 44355,
+                "probability": 13.629
+            },
+            {
+                "id": "21070090",
+                "limited": true,
+                "name": "Servant of the Secret Fire",
+                "img": "https://tr.rbxcdn.com/5e6677526f50e7eb2c126163be48a0dc/110/110/Hat/Png",
+                "price": 11803,
+                "robloxPrice": 11459,
+                "rangeFrom": 44356,
+                "rangeTo": 64135,
+                "probability": 19.78
+            },
+            {
+                "id": "1744071203",
+                "limited": true,
+                "name": "The Locksmith's Secret",
+                "img": "https://tr.rbxcdn.com/fd1a965b6d1a4ff63ed438a6a7cf06ef/110/110/Hat/Png",
+                "price": 1168,
+                "robloxPrice": 971,
+                "rangeFrom": 64136,
+                "rangeTo": 67370,
+                "probability": 3.235
+            },
+            {
+                "id": 22070802,
+                "name": "Secret Kid Wizard Glasses",
+                "robloxName": "Secret Kid Wizard Glasses",
+                "price": 103,
+                "robloxPrice": 90,
+                "rangeFrom": 67371,
+                "rangeTo": 100000,
+                "probability": 32.63
+            }
+        ],
+        "price": 12755.31
+    },
+    {
+        "name": "Pirate Case",
+        "items": [
+            {
+                "id": "43704842",
+                "limited": true,
+                "name": "Pirate Vision",
+                "img": "https://tr.rbxcdn.com/d02e090ab71f7c321def6bf26a6d1e5e/110/110/Hat/Png",
+                "price": 50000,
+                "robloxPrice": 50000,
+                "rangeFrom": 1,
+                "rangeTo": 18046,
+                "probability": 18.046
+            },
+            {
+                "id": "158068446",
+                "limited": true,
+                "name": "Platinum Pirate Headphones",
+                "img": "https://tr.rbxcdn.com/6123406bc7ab90f035c3c56d82eeafd0/110/110/Hat/Png",
+                "price": 14471,
+                "robloxPrice": 14471,
+                "rangeFrom": 18047,
+                "rangeTo": 23385,
+                "probability": 5.339
+            },
+            {
+                "id": "46839188",
+                "limited": true,
+                "name": "Pirate Luv",
+                "img": "https://tr.rbxcdn.com/cdf128c21e1994d50e995456e0f737f3/110/110/Hat/Png",
+                "price": 10072,
+                "robloxPrice": 9924,
+                "rangeFrom": 23386,
+                "rangeTo": 30569,
+                "probability": 7.184
+            },
+            {
+                "id": "236399087",
+                "limited": true,
+                "name": "Steampunk Pirate Captain",
+                "img": "https://tr.rbxcdn.com/ef0715e5785a2a6050ec6193251c941f/110/110/Hat/Png",
+                "price": 7906,
+                "robloxPrice": 7815,
+                "rangeFrom": 30570,
+                "rangeTo": 57514,
+                "probability": 26.945
+            },
+            {
+                "id": "155671106",
+                "limited": true,
+                "name": "Rusted Steampunk Pirate",
+                "img": "https://tr.rbxcdn.com/c6e9ab85b77eca61e18378f8bad5047c/110/110/Hat/Png",
+                "price": 5227,
+                "robloxPrice": 5020,
+                "rangeFrom": 57515,
+                "rangeTo": 67299,
+                "probability": 9.785
+            },
+            {
+                "id": "19364667",
+                "limited": true,
+                "name": "Pirate Santa",
+                "img": "https://tr.rbxcdn.com/963a8a03d5d26dd1e252e2fa19589cfe/110/110/Hat/Png",
+                "price": 3814,
+                "robloxPrice": 3845,
+                "rangeFrom": 67300,
+                "rangeTo": 74435,
+                "probability": 7.136
+            },
+            {
+                "id": "144506058",
+                "limited": true,
+                "name": "Pirate Chicken",
+                "img": "https://tr.rbxcdn.com/e9ff5da9a42e2f39894543c1877e76af/110/110/Hat/Png",
+                "price": 3309,
+                "robloxPrice": 3238,
+                "rangeFrom": 74436,
+                "rangeTo": 97026,
+                "probability": 22.591
+            },
+            {
+                "id": "19364658",
+                "limited": true,
+                "name": "Pirate Elf",
+                "img": "https://tr.rbxcdn.com/2ba56935ffeeb4498019e606a390daf7/110/110/Hat/Png",
+                "price": 1722,
+                "robloxPrice": 1334,
+                "rangeFrom": 97027,
+                "rangeTo": 100000,
+                "probability": 2.974
+            }
+        ],
+        "price": 14980.87
+    },
+    {
+        "name": "Magic Case",
+        "items": [
+            {
+                "id": "439985494",
+                "limited": true,
+                "name": "Sparkle Time Happy Time Magic Flower Hat",
+                "img": "https://tr.rbxcdn.com/1eaaac81a88cf25d90cfcc4fa3a05560/110/110/Hat/Png",
+                "price": 325354,
+                "robloxPrice": 190000,
+                "rangeFrom": 1,
+                "rangeTo": 4549,
+                "probability": 4.549
+            },
+            {
+                "id": "5162497",
+                "limited": true,
+                "name": "Happy Time Magic Flower Hat",
+                "img": "https://tr.rbxcdn.com/e75b469bc82bc9c9350f59dabf19e973/110/110/Hat/Png",
+                "price": 50861,
+                "robloxPrice": 60000,
+                "rangeFrom": 4550,
+                "rangeTo": 10019,
+                "probability": 5.47
+            },
+            {
+                "id": "24659699",
+                "limited": true,
+                "name": "Magic Dragon",
+                "img": "https://tr.rbxcdn.com/17a45e65e25c0a5241b9272acbf67e21/110/110/Gear/Png",
+                "price": 9127,
+                "robloxPrice": 10989,
+                "rangeFrom": 10020,
+                "rangeTo": 15626,
+                "probability": 5.607
+            },
+            {
+                "id": "71037056",
+                "limited": true,
+                "name": "Magic Lamp",
+                "img": "https://tr.rbxcdn.com/6b37adf8ddd48a3e6b1aa837c87fe5fe/110/110/Gear/Png",
+                "price": 5612,
+                "robloxPrice": 6242,
+                "rangeFrom": 15627,
+                "rangeTo": 17279,
+                "probability": 1.653
+            },
+            {
+                "id": "124730147",
+                "limited": true,
+                "name": "Happy Time Magic Flower Bowler",
+                "img": "https://tr.rbxcdn.com/0bf4ffa21de7df581b47763f489e289f/110/110/Hat/Png",
+                "price": 1023,
+                "robloxPrice": 2020,
+                "rangeFrom": 17280,
+                "rangeTo": 23953,
+                "probability": 6.674
+            },
+            {
+                "id": 225921000,
+                "name": "Rainbow Magic Carpet",
+                "robloxName": "Rainbow Magic Carpet",
+                "price": 952,
+                "robloxPrice": 700,
+                "rangeFrom": 23954,
+                "rangeTo": 30566,
+                "probability": 6.613
+            },
+            {
+                "id": 1016183873,
+                "name": "Golden Magic Carpet",
+                "robloxName": "Golden Magic Carpet",
+                "price": 502,
+                "robloxPrice": 500,
+                "rangeFrom": 30567,
+                "rangeTo": 42814,
+                "probability": 12.248
+            },
+            {
+                "id": 5802488788,
+                "name": "Magic Wand",
+                "robloxName": "Magic Wand",
+                "price": 108,
+                "robloxPrice": 50,
+                "rangeFrom": 42815,
+                "rangeTo": 100000,
+                "probability": 57.186
+            }
+        ],
+        "price": 19412.05
+    },
+    {
+        "name": "Bloodmoon Case",
+        "items": [
+            {
+                "id": "72082328",
+                "limited": true,
+                "name": "Red Sparkle Time Fedora",
+                "img": "https://tr.rbxcdn.com/e940df3a4192a265783664a0cc79e567/110/110/Hat/Png",
+                "price": 4932876,
+                "robloxPrice": 6800000,
+                "rangeFrom": 1,
+                "rangeTo": 164,
+                "probability": 0.164
+            },
+            {
+                "id": "16652251",
+                "limited": true,
+                "name": "Red Tango",
+                "img": "https://tr.rbxcdn.com/4e9515d8ad69032c3dc8a7e2e3cfb859/110/110/Face/Png",
+                "price": 1577028,
+                "robloxPrice": 3800000,
+                "rangeFrom": 165,
+                "rangeTo": 1090,
+                "probability": 0.926
+            },
+            {
+                "id": "102605392",
+                "limited": true,
+                "name": "Agonizingly Red Bucket of Cheer",
+                "img": "https://tr.rbxcdn.com/f74dbbde96213b7334281e4760f1ba39/110/110/Hat/Png",
+                "price": 128652,
+                "robloxPrice": 170000,
+                "rangeFrom": 1091,
+                "rangeTo": 2738,
+                "probability": 1.648
+            },
+            {
+                "id": "66330295",
+                "limited": true,
+                "name": "Red RAWR",
+                "img": "https://tr.rbxcdn.com/e73c956f85e7fa6edbf502e48019a50f/110/110/Face/Png",
+                "price": 91865,
+                "robloxPrice": 100000,
+                "rangeFrom": 2739,
+                "rangeTo": 3029,
+                "probability": 0.291
+            },
+            {
+                "id": "193696583",
+                "limited": true,
+                "name": "Red Ice Crown",
+                "img": "https://tr.rbxcdn.com/dfc304e56db0568743f550bba152d9c4/110/110/Hat/Png",
+                "price": 36395,
+                "robloxPrice": 180000,
+                "rangeFrom": 3030,
+                "rangeTo": 4993,
+                "probability": 1.964
+            },
+            {
+                "id": "20573086",
+                "limited": true,
+                "name": "): Red Grind",
+                "img": "https://tr.rbxcdn.com/237867f939f709c973ad52cca899306b/110/110/Hat/Png",
+                "price": 10689,
+                "robloxPrice": 1250000,
+                "rangeFrom": 4994,
+                "rangeTo": 8081,
+                "probability": 3.088
+            },
+            {
+                "id": "27477255",
+                "limited": true,
+                "name": "Red Balloon",
+                "img": "https://tr.rbxcdn.com/e90407334013fdf7c136075cb59f9d0e/110/110/Gear/Png",
+                "price": 3259,
+                "robloxPrice": 550000,
+                "rangeFrom": 8082,
+                "rangeTo": 16186,
+                "probability": 8.105
+            },
+            {
+                "id": 7831114287,
+                "name": "Red Business Hat",
+                "robloxName": "Red Business Hat",
+                "price": 269,
+                "robloxPrice": 70,
+                "rangeFrom": 16187,
+                "rangeTo": 100000,
+                "probability": 83.814
+            }
+        ],
+        "price": 28015.98
+    },
+    {
+        "name": "Circus Case",
+        "items": [
+            {
+                "id": "402303179",
+                "limited": true,
+                "name": "Fool of the Federation",
+                "img": "https://tr.rbxcdn.com/657e500ef2d4ed1d8d3e43bb2364d21d/110/110/Hat/Png",
+                "price": 245932,
+                "robloxPrice": 14285,
+                "rangeFrom": 1,
+                "rangeTo": 12081,
+                "probability": 12.081
+            },
+            {
+                "id": "147974365",
+                "limited": true,
+                "name": "Mardi Gras Jester",
+                "img": "https://tr.rbxcdn.com/19e857be6f4d8c3dd3dffff94dc828a3/110/110/Hat/Png",
+                "price": 53241,
+                "robloxPrice": 4322,
+                "rangeFrom": 12082,
+                "rangeTo": 23403,
+                "probability": 11.322
+            },
+            {
+                "id": 467,
+                "name": "Jester Equinox",
+                "robloxName": "Jester Equinox",
+                "price": 12639,
+                "robloxPrice": 250,
+                "rangeFrom": 23404,
+                "rangeTo": 32652,
+                "probability": 9.249
+            },
+            {
+                "id": 28626205,
+                "name": "Midnight Jester Mask",
+                "robloxName": "Midnight Jester Mask",
+                "price": 3219,
+                "robloxPrice": 30,
+                "rangeFrom": 32653,
+                "rangeTo": 42678,
+                "probability": 10.026
+            },
+            {
+                "id": 5803611489,
+                "name": "Purple and Black Jester Hat",
+                "robloxName": "Purple and Black Jester Hat",
+                "price": 863,
+                "robloxPrice": 50,
+                "rangeFrom": 42679,
+                "rangeTo": 58972,
+                "probability": 16.294
+            },
+            {
+                "id": 5700604813,
+                "name": "Black and White Jester",
+                "robloxName": "Black and White Jester",
+                "price": 325,
+                "robloxPrice": 80,
+                "rangeFrom": 58973,
+                "rangeTo": 100000,
+                "probability": 41.028
+            }
+        ],
+        "price": 39478.6
+    },
+    {
+        "name": "Neon Case",
+        "items": [
+            {
+                "id": "638087256",
+                "limited": true,
+                "name": "Neon Pink Crazy Crown",
+                "img": "https://tr.rbxcdn.com/bfa456e68181db6bc03fda44615cde32/110/110/Hat/Png",
+                "price": 139714,
+                "robloxPrice": 140000,
+                "rangeFrom": 1,
+                "rangeTo": 24227,
+                "probability": 24.227
+            },
+            {
+                "id": "376805769",
+                "limited": true,
+                "name": "Neon Purple Crazy Crown",
+                "img": "https://tr.rbxcdn.com/92c85cf109eab78af6edc48bfc9c2b6b/110/110/Hat/Png",
+                "price": 46050,
+                "robloxPrice": 150000,
+                "rangeFrom": 24228,
+                "rangeTo": 32384,
+                "probability": 8.157
+            },
+            {
+                "id": "321346616",
+                "limited": true,
+                "name": "Neon Green Crazy Crown",
+                "img": "https://tr.rbxcdn.com/ac65726874ba3e30a85b52ac3747e044/110/110/Hat/Png",
+                "price": 39575,
+                "robloxPrice": 270000,
+                "rangeFrom": 32385,
+                "rangeTo": 47900,
+                "probability": 15.516
+            },
+            {
+                "id": "376806474",
+                "limited": true,
+                "name": "Neon Pink Top Hat",
+                "img": "https://tr.rbxcdn.com/9f595bf4d483de2d01455bf2ad1d0689/110/110/Hat/Png",
+                "price": 32768,
+                "robloxPrice": 38000,
+                "rangeFrom": 47901,
+                "rangeTo": 57061,
+                "probability": 9.161
+            },
+            {
+                "id": "215762773",
+                "limited": true,
+                "name": "Neon Pink Shaggy",
+                "img": "https://tr.rbxcdn.com/c65637032042b8f6f223f68917a04dc9/110/110/Hat/Png",
+                "price": 8853,
+                "robloxPrice": 9000,
+                "rangeFrom": 57062,
+                "rangeTo": 71787,
+                "probability": 14.726
+            },
+            {
+                "id": "151786902",
+                "limited": true,
+                "name": "Neon Green Beautiful Hair",
+                "img": "https://tr.rbxcdn.com/cfe74b7439b92acad3d8627110cc17ee/110/110/Hat/Png",
+                "price": 7139,
+                "robloxPrice": 7000,
+                "rangeFrom": 71788,
+                "rangeTo": 79474,
+                "probability": 7.687
+            },
+            {
+                "id": "68358746",
+                "limited": true,
+                "name": "Neon Trihawk",
+                "img": "https://tr.rbxcdn.com/e8f6ad57677af7c0b10f031ca17419c1/110/110/Hat/Png",
+                "price": 4690,
+                "robloxPrice": 4720,
+                "rangeFrom": 79475,
+                "rangeTo": 85607,
+                "probability": 6.133
+            },
+            {
+                "id": "262399119",
+                "limited": true,
+                "name": "Neon Pink Trihawk",
+                "img": "https://tr.rbxcdn.com/d884db10ae9536c9d586d9339608c5db/110/110/Hat/Png",
+                "price": 4031,
+                "robloxPrice": 17380,
+                "rangeFrom": 85608,
+                "rangeTo": 100000,
+                "probability": 14.393
+            }
+        ],
+        "price": 52070.98
+    }
+]

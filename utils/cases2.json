@@ -1,0 +1,81 @@
+[
+    {
+        "slug": "pink-blast",
+        "name": "Pink Blast",
+        "items": [
+            {
+                "id": "321345771",
+                "name": "Superb Pink Adventurer",
+                "price": 1000000,
+                "rangeFrom": 1,
+                "rangeTo": 4719,
+                "probability": 4.719
+            },
+            {
+                "id": "334663683",
+                "name": "Pink Sparkle Time Fedora",
+                "price": 750000,
+                "rangeFrom": 4720,
+                "rangeTo": 9340,
+                "probability": 4.621
+            },
+            {
+                "id": "315549204",
+                "name": "WC Ultimates: Pink Diamond Distraction",
+                "price": 600000,
+                "rangeFrom": 9341,
+                "rangeTo": 12154,
+                "probability": 2.814
+            },
+            {
+                "id": "553971558",
+                "name": "Pink Queen of the Night",
+                "price": 130000,
+                "rangeFrom": 12155,
+                "rangeTo": 13223,
+                "probability": 1.069
+            },
+            {
+                "id": "323419816",
+                "name": "Glorious Pink Party Queen",
+                "price": 75000,
+                "rangeFrom": 13224,
+                "rangeTo": 14400,
+                "probability": 1.177
+            },
+            {
+                "id": "435115571",
+                "name": "Ultimate Pink Victory",
+                "price": 16000,
+                "rangeFrom": 14401,
+                "rangeTo": 21672,
+                "probability": 7.272
+            },
+            {
+                "id": "16985920",
+                "name": "Pink Penguin",
+                "price": 776,
+                "rangeFrom": 21673,
+                "rangeTo": 84814,
+                "probability": 63.142
+            },
+            {
+                "id": "25555262",
+                "name": "Pinky The Cyclops",
+                "price": 8252,
+                "rangeFrom": 84815,
+                "rangeTo": 94594,
+                "probability": 9.78
+            },
+            {
+                "id": "1428418448",
+                "name": "Pink Mermaid Princess",
+                "price": 22000,
+                "rangeFrom": 94595,
+                "rangeTo": 100000,
+                "probability": 5.406
+            }
+        ],
+        "price": 115119.2
+    }
+]

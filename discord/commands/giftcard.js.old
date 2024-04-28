@@ -1,0 +1,32 @@
+const { SlashCommandBuilder } = require('discord.js');
+const { createGiftCard } = require('../../utils');
+const { sql } = require('../../database');
+
+const data = new SlashCommandBuilder()
+	.setName('giftcard')
+	.setDescription('Create a new BloxClash gift card.')
+	.addIntegerOption(option =>
+		option.setName('amount')
+			.setDescription('The amount of robux the giftcard will be worth.')
+            .setMinValue(50)
+            .setMaxValue(10000)
+			.setRequired(true));
+
+
+module.exports = {
+    data,
+    async execute(interaction) {
+
+        const [[user]] = await sql.query('SELECT users.* FROM discordAuths JOIN users ON discordAuths.userId = users.id WHERE discordId = ?', [interaction.user.id]);
+        if (!user || user.perms < 2) return interaction.reply({ content: 'You do not have permission to use this command', ephemeral: true });
+
+        const amount = interaction.options.getInteger('amount');
+        const code = await createGiftCard(amount);
+
+        await interaction.reply({ content: `<:robux:1056759250367565844> **${amount}**: \`${code}\``, ephemeral: true });
+
+        // interaction.client.logs.giftCards.send(`<@${interaction.user.id}> created a <:robux:1056759250367565844> ${amount} gift card: \`${code}\``);
+        interaction.client.logs.giftCards.send(`BloxClash admin <@${interaction.user.id}> (\`${user.id}\`) created a <:robux:1056759250367565844> ${amount} gift card: \`${code}\``)
+
+    }
+};

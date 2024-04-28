@@ -1,0 +1,11 @@
+<% if (locals.error) { %>
+    <p>This Discord account is already linked to another BloxClash account.</p>
+<% } else { %>
+    <p>You successfully linked your Discord account <%= discordUser.username %> to BloxClash.</p>
+
+    <script>
+        window.opener.postMessage({
+            type: "discord"
+        }, "*");
+    </script>
+<% } %>
